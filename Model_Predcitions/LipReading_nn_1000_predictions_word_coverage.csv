@@ -1,0 +1,1001 @@
+iteration,original_text,raw_prediction,post_processed_prediction,raw_edit_distance,post_processed_edit_distance,word_coverage
+0,lay green at l eight now,llay green at  l eight now nn nonn,lay green at l eight now in,10,3,1.0
+1,bin white in s nine soon,bin  white  in  v nine ssooon nonnnn o,bin white in v nine soon,15,1,0.8333333333333334
+2,set red at h four now,set  rred  at  u four now no  oe,set red at u four now no oe,12,7,0.8333333333333334
+3,set blue in g five soon,set  bblue  in  a five sown ni nn no,set blue in a five sown ni in,15,8,0.6666666666666666
+4,bin red by g four please,bin  rredd by  a four pleaasse ninn   ro,bin red by a four please nine,17,6,0.8333333333333334
+5,lay red by r six please,llay  reed  by  e sixe paeaaas ninn   ro,lay reed by e side paeaaas,20,8,0.3333333333333333
+6,place blue by c five soon,place blue  by  y five ssooon ninnnr oe,place blue by y five soon,15,1,0.8333333333333334
+7,lay red at y seven again,llay rred  at  s seven aagaain iinnnn  oeeo nnn,lay red at s seven again,24,1,0.8333333333333334
+8,bin blue by m zero now,bin  bblue  by  m zero nown reree  o,bin blue by m zero now were o,14,7,1.0
+9,bin red with a two now,bin  rreed with t twwo nownnr oe,bin freed with t two owner oe,11,9,0.5
+10,lay blue at d six now,llay  blue  at  e sixx nown r o,lay blue at e six now r o,11,5,0.8333333333333334
+11,bin blue by s five soon,bin   blue  by  s five ssooon nnnn no,bin blue by s five soon anna,14,5,1.0
+12,place green in q five again,place green in q five  agaain ninn   ro,place green in q five again,12,0,1.0
+13,bin red with a three soon,bin  rred with l three sooon ninnnn  o,bin red with l three soon,14,1,0.8333333333333334
+14,bin red by t three again,bin  rred  by  i three agaain ninnnn oo,bin red by i three again,16,1,0.8333333333333334
+15,place blue in o six please,place blue  in  o sixx pleaaase plee bie  y roewoion,place blue in o six please lee,26,4,1.0
+16,lay green by s eight please,llay green by  b eight pleaaaseplleesleensee eee,lay green by b eight,22,8,0.6666666666666666
+17,set blue with h nine again,set  bblue with i nine  agaainniin  n  owonon,set blue with i nine,20,7,0.6666666666666666
+18,place white by y zero please,place white byy y zero pleaaase pleee snnn wo,place white by y zero please,17,0,1.0
+19,place red with k one again,place reed with l oone  agaain ninnnn  ooonn,place reed with l one again,19,2,0.6666666666666666
+20,place red at p five soon,place reedd at  p sive ssooonn   ree,place reeds at p give ssooonn,13,6,0.5
+21,bin green in n two please,bin  green in  n twwo pleeaase pleeee nnooo,bin green in n two please,18,0,1.0
+22,place blue at p zero please,place blue  at  c zero pleeaase pseeeeen e oe,place blue at c zero please,19,1,0.8333333333333334
+23,place blue by v eight please,place blue  by  t eight pleaaase plleee benno oo,place blue by t eight please,21,1,0.8333333333333334
+24,lay red with f one soon,llay rred with j oone ssooon no n oo,lay red with j one soon no n,14,6,0.8333333333333334
+25,set white by i four now,set  white  by  i four now n nn  o,set white by i four now n in o,11,7,1.0
+26,place white in d one again,place white ait q oone  agaain ninn   ree  oi,place white it q one again,21,2,0.6666666666666666
+27,place green in j eight now,place green in d eight nowninnnn no,place green in d eight,10,5,0.6666666666666666
+28,lay red sp with z five again,lla  rredd with f five  agaain ninnnn no,ll red with f five again,19,6,0.5714285714285714
+29,set green with x two now,set green with i twwo nownnn o,set green with i two nownnn o,7,6,0.6666666666666666
+30,bin blue at s three again,bin  bblue  at  t three agaainninnnn  o,bin blue at t three,15,7,0.6666666666666666
+31,place blue by i eight now,place blue  by  i eight nowninno o,place blue by i eight nowninno,9,5,0.8333333333333334
+32,set white in b two now,set  white  in  b twwo now nn no,set white in b two now in no,10,6,1.0
+33,bin blue at l six now,bin  bblue  at  a sixx now nn oo,bin blue at a six now in oo,12,7,0.8333333333333334
+34,set red by o two now,set  rreedd by  i twwo nown r  o,set freed by i two now r o,13,7,0.8333333333333334
+35,set white by p one again,set  white  by  y oone  agaainninn eeoe,set white by y one agaainninn,16,6,0.6666666666666666
+36,bin green by b zero now,bin  green by  y three again ninnnre ee ,bin green by y three again,23,10,0.5
+37,place red in p zero now,place reed  in  s zero nownnr  o,place reed in s zero owner o,10,8,0.5
+38,lay red with f zero now,llay rred with c twro nown reree  o,lay red with c two now were o,15,11,0.6666666666666666
+39,set white in b three soon,set  white  in  b three sooon nonnnr roe,set white in b three soon,15,0,1.0
+40,set blue in a two please,set  bblue  in  a twwo pleaaase plleee lnn n roewoinon,set blue in a two please,30,0,1.0
+41,bin white with b zero please,bin  white with u zero pleaaase pleeeesnnr roeon,bin white with u zero please,21,1,0.8333333333333334
+42,place blue by v six now,place blue  by  l sixx nownn no,place blue by l six now no,9,4,0.8333333333333334
+43,lay green at z nine again,llay green at  o none  agai ninn n oo,lay green at o none again nine,14,7,0.8333333333333334
+44,lay red in y one soon,llay rred  in  y oone ssooon nonnnn oo,lay red in y one soon nonnnn,17,7,1.0
+45,set green by p six please,set  gheen by  p sixx pleaaase plleplleen re ee gs,set green by p six please,26,0,1.0
+46,bin blue with g zero now,bin   blue with r zero nownnn no,bin blue with r zero nownnn no,9,7,0.6666666666666666
+47,set white at o five soon,set  white  at  a five  sooon nonn r roe,set white at a five soon none,17,6,0.8333333333333334
+48,lay green by g zero please,llay green by  r zero pleaaase plvee rren nn  oonnnn,lay green by r zero please,27,1,0.8333333333333334
+49,place green at y two please,place green at   twwo pleaaase  ien   ro,place green at two please in,14,5,0.8333333333333334
+50,set red by u nine again,set   redd by  u nine  agaainiin r ree  o,set red by u nine agaainiin r,18,6,0.8333333333333334
+51,set red in h three again,set  rred  in  h three agaainninn  r ree go,set red in h three agaainninn,19,5,0.8333333333333334
+52,lay white with m one soon,llay white with m oone ssooonnnnno,lay white with m one,9,5,0.8333333333333334
+53,bin white in t one again,bin  white  in  o oone  agaain ninn no oo,bin white in o one again nine,18,6,0.8333333333333334
+54,lay red in q nine again,llay rred  in  a nine  agaain iinnnn no,lay red in a nine again iinnnn,17,8,0.8333333333333334
+55,place green by e two now,place green by d twwo nownn  o,place green by d two now o,7,3,0.8333333333333334
+56,lay white by l seven soon,llay white  by  v seven ssooon nonnn o,lay white by v seven soon none,14,6,0.8333333333333334
+57,set green with j seven again,set green with j five  agaain  ien nn  ow,set green with j five again in,16,6,0.8333333333333334
+58,place white at j eight please,place white att k eight pleaaasepaneln   reeo,place white att k eight,17,9,0.5
+59,place green by y six please,place green by y sixx pleaaaseiinnnn oo,place green by y six,12,7,0.8333333333333334
+60,bin red in z six now,bin  rred  in  a sixx nowni nn wo,bin red in a six now in wo,14,7,0.8333333333333334
+61,bin green at n four now,bin  green at  a four nownnn ,bin green at a four nownnn,7,4,0.6666666666666666
+62,place green at y three again,place green it q three agaainnnnnnnoroeo,place green it q three,14,8,0.5
+63,place white by k two please,place white byy y twwo pleaaaseplleeessee se  oe,place white by y two,22,8,0.6666666666666666
+64,place green by e three soon,place green by d three sooon ninnnn  o,place green by d three soon,12,1,0.8333333333333334
+65,set white by c two please,set  white  by  p twwo pleaaase ninnnn wo,set white by p two please,17,1,0.8333333333333334
+66,bin green at t eight now,bin  green at  i eight nowinnn  o,bin green at i eight nowinnn o,10,7,0.6666666666666666
+67,set white with p two now,set  white with n twwo nowninnnn oe,set white with n two nowninnnn,12,7,0.6666666666666666
+68,bin green at a seven soon,bin green  at  a seven  sooon  n noo,bin green at a seven soon n,11,2,1.0
+69,lay white sp by l eight please,lay wwien  byy l eight pleaaase ssee gr nn  oen,lay when by l eight please see,24,9,0.7142857142857143
+70,set blue in g four now,set  bblue  in  g fiur nowni  r roo,set blue in g four now r room,14,7,1.0
+71,place green in q three soon,place green it q three sooononnne,place green it q three,7,6,0.6666666666666666
+72,bin white in g two please,bin  white  in  g twwo pleaaase pleebenno oo,bin white in g two please,19,0,1.0
+73,place green by e five again,place green by e five  agaain iinpnnn  oo,place green by e five again,14,0,1.0
+74,set green at p one soon,set  green at  a oone ssooonni nn  oo,set green at a one ssooonni in,15,8,0.6666666666666666
+75,lay green by s seven soon,llay green by  s seven ssooonnnn  o,lay green by s seven ssooonnnn,10,5,0.8333333333333334
+76,lay white with m three again,llay white with h three agaainninn   roe,lay white with h three,13,7,0.6666666666666666
+77,lay red with z three soon,llay  red with h three soon ninnno o,lay red with h three soon,12,1,0.8333333333333334
+78,lay white at e nine soon,llay white  at  o nine ssooon nonnnn no,lay white at o nine soon,16,1,0.8333333333333334
+79,lay white with s four now,llay white with x four nowinnnorea,lay white with x four,10,5,0.6666666666666666
+80,lay blue with l one again,llay  blue with u oone  agaainpap seen re ee  o,lay blue with u one agaainpap,23,5,0.6666666666666666
+81,bin white at g five soon,bin  white  at  g five ssooon nonnn o,bin white at g five soon none,13,5,1.0
+82,bin green by u four please,bin  green by  u four pleaaase nin    ooon,bin green by u four please in,16,3,1.0
+83,bin white at g seven again,bin  white  at  v seven aagaain  ie bnnn roe aai,bin white at v seven again in,23,4,0.8333333333333334
+84,place green by y seven again,place green by y seven aagaain pllppbblll  yy  eeenonnnn,place green by y seven again,28,0,1.0
+85,place white by d eight please,place white byy k eivet  agaain ninwb  ooroo,place white by k rivet again,23,9,0.5
+86,set red by i zero please,set   red  by  i zero pleaaaseplllllpleensreoea,set red by i zero,23,7,0.8333333333333334
+87,set white with c four now,set  white with x fiur now ninnno o,set white with x four now,12,1,0.8333333333333334
+88,place blue in o seven again,place blue  in  o seven  agaainni,place blue in o seven agaainni,6,3,0.8333333333333334
+89,place blue in i three again,place blue  in  i thnee agaain paeennr roeo,place blue in i three again,17,0,1.0
+90,set red at b two please,set   redd at  b twwo pleaaase plleee ln  o oo,set red at b two please alliee,23,7,1.0
+91,bin green with h eight now,bin green with h eight now nin nn no,bin green with h eight now in,10,3,1.0
+92,set blue with b five again,set  bblue with p five  agaainn eee,set blue with p five again see,10,5,0.8333333333333334
+93,lay green in z four please,llay green in  f four pleaaase plleee seen r ree goon,lay green in f four please,28,1,0.8333333333333334
+94,lay blue in j nine again,llay  blue  in  g nine  agaain ninnnnor,lay blue in g nine again,16,1,0.8333333333333334
+95,set red in h one soon,set  rredd in  o oone ssooonon r oe,set red in o one ssooonon r oe,15,10,0.6666666666666666
+96,bin blue at f five again,bin  bblue  at  f feven  again plleee lee nr wonnn,bin blue at f even again,27,3,0.8333333333333334
+97,set green by j three again,set  green by  b three agaain ninn r reego,set green by b three again,17,1,0.8333333333333334
+98,set blue with o two please,set   blue with h twwo pleaaase nin     ro,set blue with h two please in,17,4,0.8333333333333334
+99,set white at b seven soon,set  white  at  l five ssooonn r re,set white at l five ssooonn r,15,9,0.5
+100,bin blue with g two please,bin  bblue with i twwo pleaaase iinn r reegoon,bin blue with i two please inn,21,5,0.8333333333333334
+101,bin green by u five again,bin  green by  a five  agaain ninn r roo,bin green by a five again nine,16,6,0.8333333333333334
+102,place green at y zero now,place green at k zero now ninn re ee gon,place green at k zero now nine,16,6,0.8333333333333334
+103,set white in h six now,set  white  in  o sixx nown ooo,set white in o six now too,10,5,0.8333333333333334
+104,lay white at r seven soon,llay white  at  u seven ssooon non  nooo,lay white at u seven soon non,16,5,0.8333333333333334
+105,place green by e four please,place green by d four pleaaase plleeegbennnn  oo,place green by d four please,21,1,0.8333333333333334
+106,set white by v five again,set  white  by  z five  agaain ninnnn  o,set white by z five again,16,1,0.8333333333333334
+107,set white with p five again,set  white with p siven  agaainninnnr roeo,set white with p given,16,6,0.6666666666666666
+108,lay green with t two please,laa green with t twwo pleaaase pseer nn  on,law green with t two please,17,1,0.8333333333333334
+109,bin white at m eight now,bin  white  at  a eight nownin n   onon,bin white at a eight owning n,16,8,0.6666666666666666
+110,set white in u six please,set  white  in  v sixx pleaaase non soeeee,set white in v six please non,18,5,0.8333333333333334
+111,place red with q four please,place reed with x four pleaaase plleee len nr  on,place reed with x four please,22,2,0.6666666666666666
+112,set blue by b one again,set  bblue  by  a oone  agaain nin  o  oo,set blue by a one again in o,19,6,0.8333333333333334
+113,bin green at u zero please,bin  green at  u zero pleaaase plleleeseennreoe,bin green at u zero please,21,0,1.0
+114,bin white with u three again,bin  white with u three agaain nin nn  ooonnnn,bin white with u three again,18,0,1.0
+115,set green in c one again,set  green in  b oone  agaain pliee whitn    ree woi non,set green in b one again plied,33,7,0.8333333333333334
+116,lay red sp with l five soon,laa   reed with l fiven ssooon nonn re eee,law reed with l given soon,22,7,0.42857142857142855
+117,set green in b eight now,set  green in  b eight nownnn oe,set green in b eight nownnn oe,8,6,0.8333333333333334
+118,bin green in g six now,bin  green in  v sixx nown   reeo,bin green in v six now reed,12,6,0.8333333333333334
+119,place white with e zero now,place white withh e  ot nowwn   ree  oi,place white with e of now see,17,8,0.8333333333333334
+120,set white at o four now,set  white  at  o four nowni  n oo,set white at o four now n oo,11,5,1.0
+121,place green with l two please,place green wtth    oo ppleaase plleelelen nr  oon,place green with oo please,25,4,0.6666666666666666
+122,place red with x eight please,place reed with x sight pleaaase plleee bee  r ree  oion,place reed with x sight please,28,2,0.6666666666666666
+123,bin white by g eight now,bin  white  by  a eight now     o,bin white by a eight now o,10,3,0.8333333333333334
+124,lay white in r two now,llay white  in  g twwo now     oon,lay white in g two now on,13,4,0.8333333333333334
+125,bin green at n seven again,bin ggreen at  n sive aagaainiinn   ree go,bin green at n give,19,9,0.6666666666666666
+126,bin red at s six now,bin  rredd at  a sixx nown r ree,bin red at a six now r see,13,7,0.8333333333333334
+127,place red at x zero please,place reedd att j zero pleaaase plleeeeen r ree  oi,place reeds att j zero please,26,4,0.5
+128,bin red sp by g two now,bin   redd bby i twwo nowninnn no,bin red by i two nowninnn no,16,12,0.5714285714285714
+129,place white by x eight now,place white byy j eight nownnn on,place white by j eight nownnn,8,4,0.6666666666666666
+130,set green at v four now,set  green at  a four nownnreee,set green at a four nownnreee,9,7,0.6666666666666666
+131,set green in v three again,set  green in  b three agaain iin nn  o,set green in b three again in,14,4,0.8333333333333334
+132,lay green by s nine again,laay green by  n sine  agaain ninnnr oe,lay green by n side again,16,3,0.6666666666666666
+133,set red at h six please,set  rred  at  h sixx pleaaase pleee lennno o,set red at h six please place,22,6,1.0
+134,place blue at i seven again,place blue  at  u sive aagaainin  eeee,place blue at u give aagaainin,15,8,0.5
+135,bin red in s two now,bin  rred  in  s twwo nowninnroro,bin red in s two nowninnroro,13,8,0.8333333333333334
+136,place red at v nine soon,place gree at  x nine ssooonnonnnr ree  o,place free at x nine,19,8,0.5
+137,lay white in y eight please,llay white  in  y eight pleaaase plppee beennreree  oeon,lay white in y eight please,29,0,1.0
+138,bin green in t four now,bin  green in  f four now ni nn wo,bin green in f four now ni in,12,7,0.8333333333333334
+139,place white in d zero please,place white in  d zero pleaaase iinnnn  o,place white in d zero please,13,0,1.0
+140,place white by k one soon,place white byy q oone ssooon nn  n  oon,place white by q one soon in n,16,6,0.8333333333333334
+141,lay blue by r zero please,llay  blue  by  r zero pleaaase  lve  wln  n  genn,lay blue by r zero please love,25,5,1.0
+142,bin green by h five soon,bin  green by  i five ssooonnnnoo,bin green by i five,10,6,0.6666666666666666
+143,place red in i seven soon,place reedd in  i seven ssooon nnnnn  oon,place reeds in i seven soon,16,2,0.8333333333333334
+144,lay green at f four now,llay green at  f four now iinnn  onnn,lay green at f four now inn on,14,7,1.0
+145,place white with k seven again,place white withh   eeee agaain ninnnnoroo,place white with were again,17,5,0.6666666666666666
+146,bin blue in l two now,bin  bblue  in  a twwo nownnn nonnn,bin blue in a two nownnn none,15,9,0.6666666666666666
+147,bin red at m three soon,bin  rreed  at  y three soon nin nn no,bin freed at y three soon in,16,6,0.6666666666666666
+148,bin red at s nine again,bin  rredd at  a nine  agaain  ien nn  oo,bin red at a nine again in in,19,7,0.8333333333333334
+149,set red at b three again,set  rredd at  b three agaain iin nn no,set red at b three again in in,15,6,1.0
+150,lay blue by y five again,llay  blue  by  y five  agaain pllee  lle    ro,lay blue by y five again place,23,6,1.0
+151,set red in t eight now,set  rred  in  t eight now nin nn no,set red in t eight now in in,14,6,1.0
+152,place green by y five soon,place green by y five ssooonnnnr roeo,place green by y five,11,5,0.8333333333333334
+153,set blue by h three soon,set   blue  by  h three soon nnoo,set blue by h three soon not,9,4,1.0
+154,set green by j two please,set  green by  a twwo pleaaase ninnnno,set green by a two please,14,1,0.8333333333333334
+155,set red in u one again,set  rred  in  u oone  agaain iin nn  oo,set red in u one again in in,18,6,1.0
+156,set blue in m eight now,set  bblue  in  c eight nownsseee,set blue in c eight nownsseee,11,7,0.6666666666666666
+157,bin blue at s one soon,bin  bblue  at  p oone ssooon nnnnno o,bin blue at p one soon nnnnno,17,8,0.8333333333333334
+158,lay red with s one again,llay rred with p oone  agaainpllee been r reeo,lay red with p one agaainpllee,23,7,0.6666666666666666
+159,bin blue at l seven soon,bin   blue  at  s seven ssooon nonnnro,bin blue at s seven soon,15,1,0.8333333333333334
+160,bin green by b two please,bin  green by  x twwo pleeaase pleeee sen    o,bin green by x two please,22,1,0.8333333333333334
+161,place green at k five again,place green nn k five  agaain plpe b no no,place green in k five again,17,2,0.8333333333333334
+162,place red at j zero now,place reedd at  z zero now nnnnn  o,place reeds at z zero now,13,3,0.6666666666666666
+163,set red by b five soon,set  rred  by  b feve ssooon nn  n  o,set red by b five soon in n o,16,7,1.0
+164,lay white at z one soon,llay white  at  f oone ssooonnnn  o,lay white at f one ssooonnnn o,13,8,0.6666666666666666
+165,lay blue in q one soon,llay  blue  in  o oone ssooon nonnnoo,lay blue in o one soon nonnnoo,16,9,0.8333333333333334
+166,bin blue with m six please,bin  bblue with a sixx pleaaase iinn n ro,bin blue with a six please inn,16,5,0.8333333333333334
+167,bin white by t nine again,bin  white  by  i nine  agaain nin nn wo,bin white by i nine again in,16,4,0.8333333333333334
+168,place blue in v one again,place blue  in  b oone  agaain plpeee been r roo,place blue in b one again,24,1,0.8333333333333334
+169,place red at x one again,place rredd at  i oone  agaain ninn   roe oi,place red at i one again nine,21,6,0.8333333333333334
+170,bin red in z seven soon,bin  rred  in  z seven ssooon iinnnn wo,bin red in z seven soon iinnnn,16,7,1.0
+171,bin white by n five again,bin  white  by  n five  agaain plee  le  nn  geer nnn,bin white by n five again lee,28,4,1.0
+172,set green by c nine again,set  green by  i nine  agaain nin nn oo,set green by i nine again in,15,4,0.8333333333333334
+173,set blue by b zero please,set  bblue  by  b zero pleaaase plleea len nw roe woio,set blue by b zero please plea,29,5,1.0
+174,lay white in k nine soon,laay white  in  f nine ssooonn oeoo,lay white in f nine ssooonn,12,4,0.6666666666666666
+175,set red at h seven again,set  rred  at  u seven  agaain ninn re eeen,set red at u seven again nine,20,6,0.8333333333333334
+176,place blue with x one soon,place blue with x oone ssooon no,place blue with x one soon no,6,3,1.0
+177,set white at b nine again,set  white  at  n nine  agaain ninen reeeee,set white at n nine again nine,19,6,0.8333333333333334
+178,place red in v six please,place reed  in  c sixx pleaaaseplleesn eese,place reed in c six,19,9,0.5
+179,bin green by o one again,bin  green by  o oone  agaain ninnnooro,bin green by o one again,15,0,1.0
+180,lay blue with y eight please,llay  blue with t eight pleaaase plleeeble     roeo,lay blue with t eight please,24,1,0.8333333333333334
+181,lay red by l three again,llay  reedd by  k three agaain ninbnnr reo,lay reeds by k three again,19,3,0.6666666666666666
+182,set blue at n two now,set   blue  at  t twwo nownin oeoe,set blue at t two owning were,14,10,0.6666666666666666
+183,lay white at f zero please,llay white  at  s zero pleeaase pleeee  r ree  oon,lay white at s zero please,25,1,0.8333333333333334
+184,bin white by n two now,bin  white  by  n twwo nown r oe,bin white by n two now r oe,10,5,1.0
+185,place green in d four now,place green nn q four nownnno oe,place green in q four nownnno,9,5,0.6666666666666666
+186,place white with y three soon,place white with  thhree  soon ninn roro,place white with three soon,13,2,0.8333333333333334
+187,bin white with h three soon,bin  white with h three sooonnnn oo,bin white with h three,8,5,0.8333333333333334
+188,lay white in e six please,llay white  in  o sixx pleaaase iin nn  o,lay white in o six please in,17,4,0.8333333333333334
+189,lay green in f three again,llay green in  c three agaain ninnnreee,lay green in c three again,14,1,0.8333333333333334
+190,place red with x six now,place reed with x sixx nownnn wo,place reed with x six nownnn,8,4,0.6666666666666666
+191,lay white by z four now,llay white  by  f four now  n  onnn,lay white by f four now n on,13,6,0.8333333333333334
+192,set red with v two please,set  rred with v twwo pleaaasepleee bn n ro,set red with v two,18,7,0.8333333333333334
+193,bin red by m nine again,bin  rred  by  m nine aagaain panllas y  reee oe,bin red by m nine again,25,0,1.0
+194,bin red by m six now,bin   red  by  a sixx now ninnn ro,bin red by a six now nine to,15,9,0.8333333333333334
+195,lay white at l five again,llay white  at  l five  agaain iinnnroe,lay white at l five again,14,0,1.0
+196,place blue at c two please,place blue  at  a twwo pleaaase pleennn  o,place blue at a two please,17,1,0.8333333333333334
+197,place blue by j one again,place blue  by  v oone  agaain  aesen   ree  oi,place blue by v one again been,23,6,0.8333333333333334
+198,bin white with n eight please,bin  white with n eight pleaaase pllee  ble  r ree goino,bin white with n eight please,27,0,1.0
+199,lay blue with r three soon,llay  blue with r three sooon sonnnn on,lay blue with r three soon,13,0,1.0
+200,bin white by t eight sp please,bin  white  by  i eight pleelasee pllpplbllu   y roeewoino,bin white by i eight pleelasee,33,7,0.5714285714285714
+201,bin green by o zero please,bin  green by  o zero pleaaase pllpllblet  yv  geernnnn,bin green by o zero please,29,0,1.0
+202,place blue at v four please,place blue  at  u four pleaaase plleee leen re oe,place blue at u four please,23,1,0.8333333333333334
+203,bin red at g zero please,bin  rred  at  z zero pleaaase pleeesnnoeoe,bin red at z zero please,20,1,0.8333333333333334
+204,bin green in n one soon,bin ggreen in  n oone ssooonninnn  o,bin green in n one ssooonninnn,13,7,0.8333333333333334
+205,lay red by z one again,llay  reed  by  y oone  agaain ninnno o,lay reed by y one again ninnno,18,9,0.6666666666666666
+206,bin green by u two now,bin  green by  u twwo nownin   roe,bin green by u two owning roe,12,8,0.8333333333333334
+207,bin green in n three again,bin  green in  b three agaain plleee bln  r  reewoonn,bin green in b three again,28,1,0.8333333333333334
+208,place red in c four please,place reedd in  q four pleaaase  iel nn wowwo,place reeds in q four please,20,3,0.6666666666666666
+209,lay green in l six please,llay green in  l sixx pleaaase iin nn  oon,lay green in l six please in,17,3,1.0
+210,place white at q zero now,place white att q zero nown n o,place white att q zero now n o,6,5,0.8333333333333334
+211,lay white by z seven again,llay white  by  v seven  agaainnninnnnoro oi,lay white by v seven,19,7,0.6666666666666666
+212,bin green with o three soon,bin green with h three soon ninnn  o,bin green with h three soon,10,1,0.8333333333333334
+213,bin blue in r seven soon,bin  bblue  in  z feve ssooon nin nn nonnn,bin blue in z five soon in in,22,10,0.6666666666666666
+214,place blue by v nine again,place blue  by  n nine aagaain  ane n   ree  oi,place blue by n nine again and,22,5,0.8333333333333334
+215,bin blue in r eight please,bin   blue  in  e eight pleaaaseniinn n ro,bin blue in e eight,17,8,0.6666666666666666
+216,lay white sp in e four now,laa wwhiee  by  d four now ninnnr  oewonnnn,law while by d four now dinner,26,15,0.2857142857142857
+217,lay green at s four please,llay green at  f four pleaaase plleeeelen nr non,lay green at f four please,23,1,0.8333333333333334
+218,set red with o nine again,set  rred with i nine aagaain  inn reoe,set red with i nine again inn,15,5,0.8333333333333334
+219,lay red at k eight please,playe reedd at  b eight pleaaase pllpllblle nr  oonnon,place reeds at b eight please,30,6,0.5
+220,place red by x five again,place rree byy q five  agaainninn   roe,place free by q five,16,9,0.5
+221,set blue by h four please,set   blue  by  h four pleaasse nino,set blue by h four please nine,11,5,1.0
+222,set red in t nine soon,set   reed  in  i nine ssooon nn reoe,set reed in i nine soon in,16,5,0.6666666666666666
+223,set green with q one again,set green with u oone  agaain annn   oen,set green with u one again,15,1,0.8333333333333334
+224,set blue by u zero now,set   blue  by  c three again ainenne oe,set blue by c three again,23,10,0.5
+225,set white at o six please,set  white  at  i five pagaaine plee li     roo,set white at i five magazine,28,10,0.5
+226,set white at v one again,set  white  at  t oone  agaain plleeelee oo nonn,set white at t one again,25,1,0.8333333333333334
+227,set blue in a zero now,set  bblue  in  z zero nowninnnn oo,set blue in z zero nowninnnn,14,7,0.6666666666666666
+228,lay red at r two please,llay  red  at  r twwo pleaaasepaseseenseeoe,lay red at r two,20,7,0.8333333333333334
+229,place green by r three again,place green by q three agaain ninnno ro,place green by q three again,12,1,0.8333333333333334
+230,lay white by f five again,llay white  by  f five aagaain iinnnn  oeonn,lay white by f five again,19,0,1.0
+231,place red in c five again,place reedd in  f five  agaain iinn    ro,place reeds in f five again,17,3,0.6666666666666666
+232,place green at d nine soon,place green it d none  agaainnnn oo,place green it d none,14,7,0.5
+233,lay white with m two please,llay white with u twwo pleeaaseplleeeeannr o,lay white with u two,18,8,0.6666666666666666
+234,bin blue in z zero now,bin  bblue  in  z zero nowo,bin blue in z zero now,5,0,1.0
+235,set red in h zero now,set  rred  in  r zero nownnn  oo,set red in r zero nownnn oo,12,7,0.6666666666666666
+236,place white by d nine again,place white byy d nine  agaainnin r ro,place white by d nine,11,6,0.8333333333333334
+237,place green with z zero please,place green wtth z  rr ppleaase plleee bee nr  o,place green with z or please,23,3,0.8333333333333334
+238,set red by o four please,set  rred  by  o four pleaaase pleeee bnnnoooo,set red by o four please,22,0,1.0
+239,place red at j three again,place reedd at  k three agaain nin nn  onnn,place reeds at k three again,18,3,0.6666666666666666
+240,lay green in s zero please,laay green in  s zero pleaaase pleeee len nn  oo,lay green in s zero please,22,0,1.0
+241,lay blue with e four now,llay  blue with i fiur now ninn r roe,lay blue with i four now nine,15,6,0.8333333333333334
+242,lay white at z zero now,llay white  at  z zero nown noooo,lay white at z zero now noon,10,5,1.0
+243,place red in c three soon,place reedd in  y three sooon sonn r oe,place reeds in y three soon,15,3,0.6666666666666666
+244,lay red at r three again,llay rredn at  h three agaain pllee  lln     oewo,lay red at h three again place,26,7,0.8333333333333334
+245,place white with y four please,place white withh   roo pleeasse iinnnn  o,place white with room please,17,5,0.6666666666666666
+246,set white with p four please,set  white with p four pleaaase plleee le  o roewoion,set white with p four please,25,0,1.0
+247,set red with i four please,set  rred with u four pleaaase plleee l  ooroe a,set red with u four please,23,1,0.8333333333333334
+248,bin red at m five again,bin  rreed  at  f five  agaain nie    roonn,bin freed at f five again lie,21,7,0.6666666666666666
+249,bin green by n eight now,bin  green by  n eight nowninnnr  oo,bin green by n eight nowninnnr,12,6,0.8333333333333334
+250,bin red in f seven again,bin  rred  in  f seven  agaain plee lie nn wonw,bin red in f seven again lee,23,4,1.0
+251,place white by y one again,place white by  q oone  agaain ninb  n  oonnnn,place white by q one again,21,1,0.8333333333333334
+252,place blue with c nine soon,place blue with x nine ssooon non    roe,place blue with x nine soon,14,1,0.8333333333333334
+253,bin blue in z one soon,bin   blue  in  o oone ssooon nonnnro,bin blue in o one soon nonnnro,16,9,0.8333333333333334
+254,bin white by a seven again,bin  white  by  a seven  agaainninnnooo,bin white by a seven,13,6,0.8333333333333334
+255,place green in d seven again,place green in d seven  agaain ninnnn no,place green in d seven again,12,0,1.0
+256,set blue at a seven again,set   blue  at  a seven aagaainninnnnnoro,set blue at a seven,16,6,0.8333333333333334
+257,lay blue by k six please,llay  blue  by  b sixx pleaaase piee bin  n roe oi,lay blue by b six please piece,27,7,0.8333333333333334
+258,set green in o nine again,set  green in  i nine  agaain pllepleensreree  oonon,set green in i nine again,28,1,0.8333333333333334
+259,bin white with h four please,bin  white with h four pleaaase ninnnn  o,bin white with h four please,13,0,1.0
+260,lay green with m seven soon,lan green with j seven ssooon non  n  ooon,an green with j seven soon non,17,7,0.6666666666666666
+261,lay red in e zero please,llay rred  it  m zero pleaaase ninn   ree o,lay red it m zero please nine,21,7,0.6666666666666666
+262,set blue at h one again,set   blue  at  h oone  agaainninn r reee,set blue at h one agaainninn r,18,7,0.8333333333333334
+263,lay green at s three soon,llay green at  c three sooonn ee oee,lay green at c three soon he,12,4,0.8333333333333334
+264,set green at i six now,set  green at  a sixx nownnn o,set green at a six nownnn o,9,6,0.6666666666666666
+265,place red at sp p seven again,place rredd  it p seven  agaainniin n roe woi,place red it p seven,22,10,0.5714285714285714
+266,place green by y four now,place green by y four nown re ee o,place green by y four now re,9,3,1.0
+267,lay blue at d eight please,llay  blue  at  a eight pleaaaseplee bn r ree  o,lay blue at a eight,23,8,0.6666666666666666
+268,bin blue by s six please,bin  bblue  by  v sixx pleaaase ninb    roeo,bin blue by v six please nine,21,6,0.8333333333333334
+269,bin blue by m two please,bin  bblue  by  b twwo pleaaase pleee bnno roe,bin blue by b two please place,23,7,0.8333333333333334
+270,set green in o seven soon,set  green in  a seven  sooon ninn r oe,set green in a seven soon nine,15,6,0.8333333333333334
+271,lay white in k eight now,llay white  in  b eight nownnn no,lay white in b eight nownnn no,10,7,0.6666666666666666
+272,set blue at a five soon,set   blue  at  a sixx nown nn  oo,set blue at a six now in oo,16,10,0.6666666666666666
+273,lay white at z three again,llay white  it  a three agaain ninn   ro,lay white it a three again,16,2,0.6666666666666666
+274,set red at n nine soon,set  rred  at  n nine ssooon non,set red at n nine soon non,10,4,1.0
+275,place blue in u nine soon,place blue  in  u nine ssooon nnnnnn ro,place blue in u nine soon,14,0,1.0
+276,lay green by f nine soon,llay green by  o nine ssooon son  r  o,lay green by o nine soon son r,15,7,0.8333333333333334
+277,bin green with o four please,bin green with f four pleaasse pleeee bnnn  oooon,bin green with f four please,22,1,0.8333333333333334
+278,place red at c seven soon,place reedd at  a seven  agin ssen reee o,place reeds at a seven again,19,7,0.5
+279,set green at v five soon,set  green at  f five ssooon nnnn no,set green at f five soon anna,13,6,0.8333333333333334
+280,bin green at h zero now,bin  green at  h tero nowni  n  o,bin green at h term now n o,11,6,0.8333333333333334
+281,set white by o nine soon,set  white  by  o nine ssooon iinnn  awn,set white by o nine soon inn,16,4,1.0
+282,lay white in y nine again,llay white  in  g nine  agaainni  r roe,lay white in g nine agaainni r,15,6,0.6666666666666666
+283,set white with v six now,set  white with v sixx nownnn o,set white with v six nownnn o,7,5,0.8333333333333334
+284,bin blue at z seven again,bin   blue  at  v seven  agaainninnnr ree goi,bin blue at v seven,21,7,0.6666666666666666
+285,lay blue with r two now,llay bblue with h twwo nowninnnr oe,lay blue with h two nowninnnr,13,7,0.6666666666666666
+286,set white with i eight now,set  white with t eight nownin oooo,set white with t eight owning,10,6,0.6666666666666666
+287,place white in j three soon,place white itt q three sooon sse wr  n  oeo,place white it q three soon,19,2,0.6666666666666666
+288,set white in h seven soon,set  white  in  h seven  sooon ninn   eee,set white in h seven soon nine,16,5,1.0
+289,bin green at u one again,bin  green at  u oone  agaain ain nn won,bin green at u one again ain,16,4,1.0
+290,lay green at m one again,llay green at  c tone  agaain apsnnr ro,lay green at c tone again,16,2,0.6666666666666666
+291,set red at u five again,set   red  at  a five  agaain ninnnn  o,set red at a five again ninnnn,17,8,0.8333333333333334
+292,set green by j one soon,set  green by  x oone  sooon no nn n,set green by x one soon no in,14,7,0.8333333333333334
+293,bin blue in r nine again,bin   blue  in  h nine  agaain nin    oo,bin blue in h nine again in oo,17,7,0.8333333333333334
+294,set blue in m nine soon,set  bblue  in  d nine ssooonn  o o,set blue in d nine ssooonn o o,13,8,0.6666666666666666
+295,set blue at a four now,set  bblue  at  a four nowni    oo,set blue at a four now oo,12,3,1.0
+296,lay white at r eight please,llay white  at  g eight pleaaase iin   n  o,lay white at g eight please in,17,4,0.8333333333333334
+297,set white with p three soon,set  white with s three sooonninnr ro,set white with s three,11,6,0.6666666666666666
+298,lay green with g two now,laa green with h twwo now  n oon,law green with h two now n on,10,7,0.6666666666666666
+299,place white at j six now,place white at  j sixx nownnn o,place white at j six nownnn o,7,5,0.8333333333333334
+300,bin blue in l three soon,bin   blue  in  l three soonnnn  o,bin blue in l three soonnnn o,10,5,0.8333333333333334
+301,bin blue by s seven again,bin  bblue  by  s seven  agaain ninnnr  oeoon,bin blue by s seven again,20,0,1.0
+302,place white at x five soon,place white at  x fixx nownn   o,place white at x fix now o,10,6,0.6666666666666666
+303,bin red in z nine again,bin  rred  in  d nine  agaainninn   reeo,bin red in d nine agaainninn,18,6,0.6666666666666666
+304,place blue at o eight now,place blue  at  h eight nowninn reeeee o,place blue at h eight owning,16,6,0.6666666666666666
+305,lay white by s zero now,llay white  by  s zero now ninnnn roe o,lay white by s zero now ninnnn,16,7,1.0
+306,set green at c two now,set  green at  a twwo now    oo,set green at a two now oo,10,4,0.8333333333333334
+307,lay red at y six please,llay  reed  at  y sixx pleaaase pleee  bin nn  agnnnn,lay reed at y six please place,30,7,0.8333333333333334
+308,place blue by p five again,place blue  by  p five  agaainin reeee o,place blue by p five agaainin,14,3,0.8333333333333334
+309,place white by q five soon,place white bby q fine  sooon ninnnn no,place white by q fine soon,14,1,0.8333333333333334
+310,place red in v five soon,place rredd in  k five ssooon nonsreeee,place red in k five soon,16,1,0.8333333333333334
+311,bin red with t four now,bin  rred with t four now nn nonn,bin red with t four now in,10,3,1.0
+312,bin white in m six please,bin  white  in  s sixx pleaaase aaees    roeo,bin white in s six please,21,1,0.8333333333333334
+313,lay blue with k eight now,play  blue with h eight nowninnnooo,play blue with h eight,11,6,0.5
+314,set blue by n seven soon,set   blue  by  v sive ssooon nonnn oen,set blue by v give soon none,18,9,0.6666666666666666
+315,bin green at h one soon,bin  green at  o oone ssooon    ro,bin green at o one soon to,12,4,0.8333333333333334
+316,lay white at f one again,llay white  at  f oone  agaaini nn noon,lay white at f one again in,15,3,1.0
+317,lay white with z nine soon,llay white with u nine ssooon son nn  o,lay white with u nine soon son,14,5,0.8333333333333334
+318,lay white with f six now,llay white with o sixx nown   roe,lay white with o six now roe,10,5,0.8333333333333334
+319,lay white sp by f three soon,lan green  bby y three sooon nnnn   roe,an green by y three soon anna,22,15,0.42857142857142855
+320,lay blue at d nine again,llay  blue  at  d nine aagaain iinnnn  ow,lay blue at d nine again,17,0,1.0
+321,set white with j zero please,set  white with r zero pleaaase pleeee bnnnnooo,set white with r zero please,20,1,0.8333333333333334
+322,place blue at i four now,place blue  at  u four now ninn reee,place blue at u four now nine,13,6,0.8333333333333334
+323,set red by u six now,set  rred  by  x sixx nown   ro,set red by x six now to,12,4,0.8333333333333334
+324,lay blue at k zero now,llay  blue  at  m zero now noooo,lay blue at m zero now noon,11,6,0.8333333333333334
+325,set red by b seven again,set   red  by  s seven  agaain ninn oe eeen,set red by s seven again nine,20,6,0.8333333333333334
+326,place blue at i five soon,place blue  at  a five ssooonnn  oo,place blue at a five ssooonnn,11,5,0.6666666666666666
+327,lay red at y four now,llay rredd at  f four nown   ro,lay red at f four now to,11,4,0.8333333333333334
+328,place red in p three again,place reed  in  b three agaain pleelin nr  o,place reed in b three again,19,2,0.6666666666666666
+329,place white in x one soon,place white in  x oone ssooon nonnnooo,place white in x one soon,13,0,1.0
+330,lay red in k two now,llay  red  in  c twwo nown r ree o,lay red in c two now r see o,15,9,0.8333333333333334
+331,lay red with l four now,llay  reed with l four nown reee ,lay reed with l four now rete,10,6,0.8333333333333334
+332,place red with d six please,place reed with d sixx pleaaase  sen n  o,place reed with d six please,14,1,0.8333333333333334
+333,lay red in q seven soon,llay  red  in  f five ssooon nnnno oo,lay red in f five soon nnnno,19,10,0.6666666666666666
+334,lay green at s five again,llay green at  a five  agaain iinnn   roo,lay green at a five again inn,17,5,0.8333333333333334
+335,set blue in a one soon,set  bblue  in  t oone ssooon ninnnn o,set blue in t one soon ninnnn,17,8,0.8333333333333334
+336,bin green in a four please,bin  green in  f four pleaasse ninn n no,bin green in f four please,15,1,0.8333333333333334
+337,place white by k three again,place white by  y three agaaininnneeo,place white by y three,10,7,0.6666666666666666
+338,set green with d two please,set green with r twwo pleeaasepllee len r ree,set green with r two,19,8,0.6666666666666666
+339,bin green in g seven soon,bin grren  in  v feve  sooonnonn ror,bin green in v five sooonnonn,15,9,0.5
+340,place white in p nine again,place white in  n siven  agaainiinnr roeon,place white in n given,18,8,0.5
+341,place red by q zero please,place reedd by  d zero pleaaaseni nn  oon,place reeds by d zero,16,10,0.5
+342,place red in p one soon,place reed  in  p oone ssooonn  eoe,place reed in p one ssooonn,12,4,0.6666666666666666
+343,place green by k six now,place green by j sixx nownnn o,place green by j six nownnn o,7,6,0.6666666666666666
+344,lay white in y six now,llay white  in  l sixx nownnn  o,lay white in l six nownnn o,11,6,0.6666666666666666
+345,set red with v three again,set   red with s three agaain nin  r roe,set red with s three again in,15,4,0.8333333333333334
+346,bin white in g zero now,bin  white  in  c twwo nownnn  oo,bin white in c two nownnn oo,14,10,0.5
+347,set red with o eight please,set  rred with t eight pleaaase plleeeeleen r ree go,set red with t eight please,26,1,0.8333333333333334
+348,place blue with x three again,place blue with t three agaain ninn   ro,place blue with t three again,12,1,0.8333333333333334
+349,place green with r five soon,place green ithh t reee sooonni  oooo,place green the t rete sooonni,15,10,0.3333333333333333
+350,lay white at l three soon,llay white  at  b three sooon ni nn  oon,lay white at b three soon ni,16,4,0.8333333333333334
+351,set green with p eight now,set green with p eight now ninnee oe,set green with p eight now,10,0,1.0
+352,lay red by e nine again,llay  redd by  i nive  agaain ninn  or,lay red by i give again nine,17,8,0.8333333333333334
+353,lay red at e three soon,llay rreedd at  a three sooon nonnr reea,lay freed at a three soon nor,18,7,0.6666666666666666
+354,set red by u eight please,set   reed  by  t eight pleaaase plleeeblu  nr rono,set reed by t eight please,27,2,0.6666666666666666
+355,set red with v zero now,set   red with s zero nownin  oro,set red with s zero owning or,11,8,0.6666666666666666
+356,lay green at f seven again,llay green at  l seven  agaainninnnn o,lay green at l seven,13,7,0.6666666666666666
+357,place green with y eight now,place green wihh   whh  w ninn nn noonnn,place green with who w nine in,19,12,0.5
+358,bin white with a eight now,bin  white with a eight nownnn on,bin white with a eight nownnn,7,3,0.8333333333333334
+359,lay green with a zero please,lay green with t zero pleaaase pleen   oo,lay green with t zero please,14,1,0.8333333333333334
+360,bin green by b one soon,bin  green by  b oone  sooonno  s  o,bin green by b one sooonno s o,13,7,0.8333333333333334
+361,place green in x eight please,place green in j eight pleeaase iinnnn no,place green in j eight please,13,1,0.8333333333333334
+362,set red at o one again,set  rred  it  h oone  agaain niiwb    roe goi,set red it h one again niiwb,26,8,0.6666666666666666
+363,lay red in y three again,llay rred  in  y three agaain nin    ro,lay red in y three again in to,15,6,1.0
+364,bin green with b seven again,bin green with p siven aagaain pllee been reroe,bin green with p given again,21,3,0.6666666666666666
+365,place blue in b six now,place blue  in  b sixx nown n  o,place blue in b six now n o,9,4,1.0
+366,bin red by m eight please,bin  rreedd by  b eight pleaaase plpe leen reee,bin freed by b eight please,23,3,0.6666666666666666
+367,bin blue in e nine soon,bin   blue  in  d nine ssooon non  or,bin blue in d nine soon non or,15,8,0.8333333333333334
+368,lay green with g three soon,ban green with h three agaain ssennr oe,ban green with h three again,17,7,0.5
+369,set white at i two please,set  white  at  i twwo pleaaase ssen r oe,set white at i two please seen,16,5,1.0
+370,set green in i four please,set  green in  i four pleaaase plxee benn r roo,set green in i four please,21,0,1.0
+371,place white with q eight now,place white iithh e ghh nwwnin re eeegs,place white with e the nwwnin,18,9,0.5
+372,lay white by z six please,llay white  by  z sixx pleaaase asennn o,lay white by z six please,15,0,1.0
+373,place white at d three soon,place white att   three sooon ninn r ree,place white att three soon,14,2,0.6666666666666666
+374,set green at i seven soon,set  green at  e seven ssooonnonnnooo,set green at e seven,13,6,0.6666666666666666
+375,bin white at a two please,bin  white  at  a twwo pleaaase ninnnr o,bin white at a two please,15,0,1.0
+376,set white at o seven again,set  white  at  o sive  agaain ninn r ree  o,set white at o give again nine,20,8,0.8333333333333334
+377,lay green at l nine soon,llay green at  a nine ssooonnnr reo,lay green at a nine ssooonnnr,12,6,0.6666666666666666
+378,set white in o two please,set  white  in  h twwo pleaaase nin  nooo,set white in h two please in,17,4,0.8333333333333334
+379,place red in i six now,place rred inn i sixx now iinnn  oo,place red inn i six now inn oo,13,8,0.8333333333333334
+380,lay green in z five again,llay green in  a five  agaain ninnnr ro,lay green in a five again,15,1,0.8333333333333334
+381,bin red in s three soon,bin  rred  in  b three soon ninnnn  o,bin red in b three soon ninnnn,15,8,0.8333333333333334
+382,bin white with u one soon,bin  white with o oone  sooon  iennn no,bin white with o one soon,15,1,0.8333333333333334
+383,place blue with j five again,place blue with x fine  agaain ninnnn  o,place blue with x fine again,14,2,0.6666666666666666
+384,set green by c six now,set  green by  a sixx nown reree  o,set green by a six now were o,14,8,0.8333333333333334
+385,place blue in i one soon,place blue  in  i oone ssooon ninnnn no,place blue in i one soon,15,0,1.0
+386,place green with e eight please,place green wihh e  hx ppleaasse ninnnn  o,place green with e he,18,10,0.6666666666666666
+387,lay white at r nine again,llay white  at  d nine  agaainplle bnnnoo,lay white at d nine agaainplle,17,6,0.6666666666666666
+388,place red by j seven again,place reedd by  v seven aagaain ninnnn on,place reeds by v seven again,16,3,0.6666666666666666
+389,place green at k four please,place green at q four pleaaase aeebn r reeoi,place green at q four please,17,1,0.8333333333333334
+390,bin blue by f nine again,bin  bblue  by  u nine  agaain  ae binnn  oonnn,bin blue by u nine again a inn,24,7,0.8333333333333334
+391,place green in q two now,place green in q twwo nowninnn no,place green in q two nowninnn,9,5,0.8333333333333334
+392,place blue at c zero now,place bluee at  d zero nowinnno,place blue at d zero nowinnno,8,6,0.6666666666666666
+393,place green with y nine soon,place ghienwwiii thneee soon ninn  oroe,place ghienwwiii there soon,18,10,0.3333333333333333
+394,place blue in o five soon,plac  blue  in  o five ssooonnnr oe,place blue in o five ssooonnnr,11,5,0.8333333333333334
+395,lay blue with l zero please,llay bblue with p zero pleaaase ninn   ro,lay blue with p zero please,15,1,0.8333333333333334
+396,lay blue with e five soon,llay  blue with l five ssoonnin noo,lay blue with l five ssoonnin,11,5,0.6666666666666666
+397,set green by v nine soon,set  green by  u nine ssooonn   roe,set green by u nine ssooonn,12,4,0.6666666666666666
+398,lay green at s two now,llay green at  n twwo nowninnror,lay green at n two nowninnror,11,8,0.6666666666666666
+399,set red at u four please,set   red  at  u four pleaaase pllplllleen reeee  o,set red at u four please,27,0,1.0
+400,bin blue in r six now,bin  bblue  in  u sixx nownnn wo,bin blue in u six nownnn wo,12,7,0.6666666666666666
+401,lay white at e eight now,llay white  at  e eight now    roe,lay white at e eight now roe,10,4,1.0
+402,place white in x three again,place white in  q three agaain  aee nn wonn,place white in q three again,16,1,0.8333333333333334
+403,lay blue by y two now,llay bblue  by  b twwo now  o o,lay blue by b two now o o,11,5,0.8333333333333334
+404,bin red in l nine soon,bin   red  in  u nine ssooon nonnoeoe,bin red in u nine soon,16,1,0.8333333333333334
+405,place red in v four now,place reedd in  u four nownnnooo,place reeds in u four,10,7,0.5
+406,bin green with b four now,bin green with p four nownnr roeo,bin green with p four owner,9,5,0.6666666666666666
+407,place green with l three again,place green wihh   heee  aaainn nin  n ooon,place green with here again in,19,8,0.6666666666666666
+408,lay red by y nine soon,llay rredd by  v nine ssooon ssennr oe,lay red by v nine soon senor,17,7,0.8333333333333334
+409,bin red with t five soon,bin   reed with i five ssooon non s oe,bin reed with i five soon non,15,6,0.6666666666666666
+410,set blue at t eight please,set  bblue  at  t eight pleaaase pllplllllaenyr ree goi,set blue at t eight please,29,0,1.0
+411,set white in o zero now,set  white  in  o zero nownnn no,set white in o zero nownnn no,9,6,0.8333333333333334
+412,set white with v seven soon,set  white with v seven ssooon ninnn  o,set white with v seven soon,12,0,1.0
+413,bin green at h two please,bin  green at  h twwo pleaaase plleleeeinnr oe,bin green at h two please,21,0,1.0
+414,set white by c three again,set  white  by  c three again ninnnn  gee,set white by c three again,15,0,1.0
+415,set white in u five soon,set  white  in  f five  sooon  r ree  onon,set white in f five soon r see,19,7,0.8333333333333334
+416,lay white in r five again,llay white  in  a five  agaain iin    roeo,lay white in a five again in,18,4,0.8333333333333334
+417,set blue by n nine again,set   blue  by  n nive  agaain ninnnn o,set blue by n give again,16,2,0.8333333333333334
+418,place red in p two please,place reedd in  d twwo pleaaase  sen   oo,place reeds in d two please,17,3,0.6666666666666666
+419,place red by x three soon,place rredd bby h three soon nonn   roe,place red by h three soon none,15,6,0.8333333333333334
+420,bin blue at z four now,bin  bblue  at  z four nowninnn no,bin blue at z four nowninnn no,12,8,0.8333333333333334
+421,bin red at g one again,bin  rredd at  g oone  agaain iin nn no,bin red at g one again in in,17,6,1.0
+422,set red with o seven soon,set  rred with t siven ssooinn eeo,set red with t given ssooinn,11,6,0.5
+423,bin blue at f three soon,bin   blue  at  z three soon ninnn,bin blue at z three soon nine,11,6,0.8333333333333334
+424,place blue in b nine again,place blue  in  a nine  agaain  sebnnn  oo,place blue in a nine again,17,1,0.8333333333333334
+425,bin white in m seven again,bin  white  in  m seven aagaainiinn  or,bin white in m seven,13,6,0.8333333333333334
+426,bin blue in z sp two please,bin   blue  in  p z  rr plleaase plleeeblu  nr wo,bin blue in p z or please,29,6,0.7142857142857143
+427,bin blue by m one soon,bin  bblue  by  b oone ssooon nonn r ree,bin blue by b one soon none r,19,8,0.8333333333333334
+428,lay red in k four please,llay  reed  in  f four pleaaase pllpeeele nre oenn,lay reed in f four please,27,2,0.6666666666666666
+429,bin red in z eight please,bin  rred  in  z eight pleaaaseplleee ln    reeno,bin red in z eight,24,7,0.8333333333333334
+430,set blue in n one again,set  bblue  in  i nine  agaainniin nn wow,set blue in i nine agaainniin,20,8,0.5
+431,place blue with x two please,place blue with t twwo pleaaase plleee seen reree ga,place blue with t two please,25,1,0.8333333333333334
+432,place blue with c eight now,place blue with c eight now nnnnno oe,place blue with c eight now,10,0,1.0
+433,set blue at t six now,set  bblue  at  a sixx nownno oo,set blue at a six nownno oo,12,7,0.6666666666666666
+434,lay white by l six now,llay white  by  a sixx nowni nn no,lay white by a six now in no,13,7,0.8333333333333334
+435,lay red by r five soon,llay  reedd by  l five ssooonnnoo,lay reeds by l five ssooonnnoo,12,9,0.5
+436,place white with e two please,place white withh  wwoo pleeaaseseee sn eese,place white with who,18,11,0.5
+437,bin green at a six now,bin  green at  a sixx now nn no,bin green at a six now in no,9,6,1.0
+438,set white by i six please,set  white  by  o sixx pleaaasepllee bn r ree  oi,set white by o six,25,8,0.6666666666666666
+439,place red at c eight please,place reedd at  c eight pleaaase plleee ble nr  eeeonnon,place reeds at c eight please,29,2,0.8333333333333334
+440,set red by i one again,set  rred  by  i oone  agaain iin  n ro,set red by i one again in n to,17,8,1.0
+441,place green at k three soon,place green it k three sooon ninnnn oo,place green it k three soon,12,1,0.8333333333333334
+442,bin red with n one soon,bin  rred with d nine ssooonni  o ro,bin red with d nine ssooonni o,15,9,0.5
+443,place green by r two please,place green by q twro pleeaase ninnnn no,place green by q two please,14,1,0.8333333333333334
+444,lay green in f zero now,llay green in  z zwro nownnr roe,lay green in z zero owner roe,11,8,0.6666666666666666
+445,lay red at y five soon,llay  reedd at  f five ssooon ninnnn o,lay reeds at f five soon,17,3,0.6666666666666666
+446,lay red at e five again,llay rred  at  a five  agaain siennr roe,lay red at a five again vienna,18,8,0.8333333333333334
+447,bin red with a four please,bin  rred with a four pleaaase ssnnn no,bin red with a four please,13,0,1.0
+448,set blue by h two now,set   blue  by  h twwo nownin   ro,set blue by h two owning to,13,8,0.8333333333333334
+449,set red with i two now,set  rred with i twwo nown reroe,set red with i two now were,10,5,1.0
+450,lay red with f three again,llay  red with l three agaain nin nn  oennn,lay red with l three again in,18,4,0.8333333333333334
+451,set red with o six now,set   reed with i sixx nown oeeen,set reed with i six now been,12,7,0.6666666666666666
+452,bin green with i one again,bin green with i oone  agaain iin nn no,bin green with i one again in,13,3,1.0
+453,set green by x one again,set  green by  o oone  agaain plee le nn  oo,set green by o one again lee,21,5,0.8333333333333334
+454,bin green with u six now,bin green with u sixx now nn  o,bin green with u six now in o,7,5,1.0
+455,place green in d five soon,place green it d nine ssooon nin   oooo,place green it d nine soon in,16,6,0.8333333333333334
+456,set white by v four please,set  white  by  f four pleaaase sseen r  eee,set white by f four please,19,1,0.8333333333333334
+457,bin blue with m seven again,bin   blue with x seven  agaain pleele nn  oowonnn,bin blue with x seven again,24,1,0.8333333333333334
+458,place green with r six please,place greenwiihh e shx pleeaase plleleeleennr  oe,place greenwich e she please,25,5,0.3333333333333333
+459,bin green with i zero please,bin green with h zero pleaaasepllee sn r ree  oi,bin green with h zero,21,8,0.6666666666666666
+460,set blue in t four please,set  bblue  in  g four pleaaase plleee bennn  o,set blue in g four please,23,1,0.8333333333333334
+461,set red by h eight now,set  rred  by  i eight now iinnn  awn,set red by i eight now inn an,16,8,0.8333333333333334
+462,bin green in t five soon,bin green  in  a nive  aoin nin nn no,bin green in a give join in in,17,10,0.5
+463,place red by d one soon,place rredd by  d oone ssooon  se nn  o,place red by d one soon se in,16,6,1.0
+464,set blue in a three again,set  bblue  in  a three agaain iinn   roeo,set blue in a three again inn,17,4,1.0
+465,place red in v seven again,place reedd in  s seven  agaain ninnnn no,place reeds in s seven again,16,3,0.6666666666666666
+466,bin white in m four now,bin  white  in  f four nowin   ro,bin white in f four now to,11,4,0.8333333333333334
+467,bin green by h six please,bin  green by  i sixx pleaaase nin nn  oo,bin green by i six please in,17,4,0.8333333333333334
+468,place white in j five again,place white in  a fine  agaain ninnnn nonnn,place white in a fine again,18,2,0.6666666666666666
+469,place red with q three soon,place reed with p three sooon nn no,place reed with p three soon,9,2,0.6666666666666666
+470,set white at v zero please,set  white  at  b zero pleaasse ninnnn  oo,set white at b zero please,17,1,0.8333333333333334
+471,lay white at r six now,llay white  at  a sixx nowni n reoe,lay white at a six now n rete,14,8,0.8333333333333334
+472,bin red in f five soon,bin  rredd in  f five ssoonnnno,bin red in f five ssoonnnno,9,5,0.8333333333333334
+473,bin green at t nine soon,bin ggreen at  a nine ssooon nnnnnr ree,bin green at a nine soon,16,1,0.8333333333333334
+474,lay blue with y six now,llay bblue with s sixx nownnnnr roe,lay blue with s six nownnnnr,13,6,0.6666666666666666
+475,bin white with h five again,bin  white with i nive  agaain ninn n ro,bin white with i give again,15,2,0.6666666666666666
+476,lay blue with y nine again,llay  blue with x nine  agaain nin nnn oo,lay blue with x nine again in,16,4,0.8333333333333334
+477,lay green by m two now,llay green by  c twwo nownnn no,lay green by c two nownnn no,10,7,0.6666666666666666
+478,bin white in s eight now,bin  white  in  m eight nowin   reeo,bin white in m eight now reed,13,6,0.8333333333333334
+479,set red by h nine soon,set  rred  by  g nine  sooonninnno,set red by g nine sooonninnno,13,8,0.6666666666666666
+480,place green in k one again,place green in q oone  agaainninn   roe,place green in q one,14,7,0.6666666666666666
+481,set blue by u three again,set   blue  by  g three agaainplleepleensre eeego,set blue by g three,25,7,0.6666666666666666
+482,lay blue in d two now,llay bblue  in  g twwo nowninnnr oe,lay blue in g two nowninnnr oe,15,10,0.6666666666666666
+483,place red at j two please,place rredd at  u twwo pleaaase plesslen reee,place red at u two please,21,1,0.8333333333333334
+484,lay blue at q seven again,llay  blue  at  b seven  agaain iin  n  o,lay blue at b seven again in n,17,6,0.8333333333333334
+485,lay blue by y three soon,llay  blue  by  y three sooon ninnnn ro,lay blue by y three soon,15,0,1.0
+486,bin green by h seven again,bin  green by  v seven  agaain iinnno oo,bin green by v seven again,15,1,0.8333333333333334
+487,bin red in m zero please,bin  rred  in  s zero pleaaase plesennnn noo,bin red in s zero please,21,1,0.8333333333333334
+488,set red with i three soon,set  rred with h three soon nnoroo,set red with h three soon,10,1,0.8333333333333334
+489,place white by d seven soon,place white by  d seven ssooon nin nn  o,place white by d seven soon in,13,3,1.0
+490,bin blue by z nine soon,bin  bblue  by  l fine sooonnnnn roeo,bin blue by l fine sooonnnnn,16,7,0.5
+491,place blue by c six please,place blue  by  a sixx pleaaasepllee bennr reeo,place blue by a six,22,8,0.6666666666666666
+492,lay red in d eight now,llay  red  in  l eight nownni  n  oon,lay red in l eight nownni n on,16,9,0.6666666666666666
+493,place white by d six now,place white byy x sixx nowninn  oree aai,place white by x six owning,17,6,0.6666666666666666
+494,place red with x nine again,place reed with x nine aagaain pie  bnnn  ggn,place reed with x nine again,18,1,0.8333333333333334
+495,set red at h five soon,set  rred  at  h five ssooonnonno ,set red at h five ssooonnonno,12,7,0.8333333333333334
+496,lay green with t three again,laa green with t three agaain  sen nor,law green with t three again,11,1,0.8333333333333334
+497,place white in p eight please,place white inn p eight pleaaase plleee bee  r ree,place white inn p eight please,21,1,0.8333333333333334
+498,lay green at f six please,llay green at  f sixx pleaaase ae n   roeo,lay green at f six please a n,17,4,1.0
+499,set red by b four now,set  rreed  by  b four nownnn on,set freed by b four nownnn on,11,8,0.6666666666666666
+500,lay blue in x seven again,llay  blue  in  o siven  agaainninn   ree  oi,lay blue in o given agaainninn,22,8,0.5
+501,set blue with u five soon,set   blue with u five ssooon non no oeo,set blue with u five soon non,15,4,1.0
+502,set red with i five again,set  rred with h five  agaain ninwn   ree o,set red with h five again nine,19,6,0.8333333333333334
+503,set red in n seven again,set   reed  in  s seven  agaain iin  n  oowon,set reed in s seven again in n,22,7,0.8333333333333334
+504,set blue in t three soon,set   blue  in  b three sooonnon r r,set blue in b three sooonnon r,13,7,0.6666666666666666
+505,lay white in y seven soon,llay white  in  y seven ssooon nn nn  on,lay white in y seven soon in,15,3,1.0
+506,lay green with t zero now,laa green with n thre naginnnr ree,law green with n the naginnnr,16,12,0.3333333333333333
+507,lay blue in x six please,llay  blue  in  o sixx pleaaasein reree  o,lay blue in o six pleaaasein,19,5,0.6666666666666666
+508,set white at b eight please,set  white  at  b eight pleaaase nie nn  o,set white at b eight please,15,0,1.0
+509,bin blue at s two please,bin  bblue  at  f twwo pleeaase  aeeb nn won,bin blue at f two please are,21,5,0.8333333333333334
+510,lay red in k three soon,llay rreedd in  s three soonnnn o,lay freed in s three soonnnn o,11,8,0.5
+511,bin blue at f two now,bin   blue  at  b twwo nownnnoo,bin blue at b two nownnnoo,11,6,0.6666666666666666
+512,bin red at s eight sp please,bin  rred  at  s eight plepaasee plleeebll   r roo,bin red at s eight plepaasee,26,6,0.7142857142857143
+513,lay white with s six please,llay white with x sixx pleaaasepaeen   ree,lay white with x six,16,8,0.6666666666666666
+514,bin green in n zero now,bin green  in  m zero nowninnn no,bin green in m zero nowninnn,11,6,0.6666666666666666
+515,bin red with n two please,bin  rred with n twwo pleeasse sesnne  oe,bin red with n two please,16,0,1.0
+516,bin green with u nine again,bin green with u nine  agaain  ien r ro,bin green with u nine again in,12,3,1.0
+517,bin green at a nine again,bin  green at  i nine  agaainnii    wo,bin green at i nine agaainnii,14,5,0.6666666666666666
+518,lay white in l one again,llay white  in  a oone  agaainninnnr reeo,lay white in a one,18,7,0.6666666666666666
+519,place white by q six please,place white byy q sixx pleaaasepllee sen   reeo,place white by q six,20,7,0.8333333333333334
+520,lay green by g one again,llay green by  g oone  agaain nin nn no,lay green by g one again in in,15,6,1.0
+521,place white at q three again,place white at  c three agaainn reeee,place white at c three again,10,1,0.8333333333333334
+522,place green at q eight please,place green at k eight pleaaase nin    ro,place green at k eight please,13,1,0.8333333333333334
+523,lay blue by r one again,llay bblue  by  i oone  agaain ninnnn  oe,lay blue by i one again ninnnn,19,8,0.8333333333333334
+524,set white at u nine soon,set  white  at  i nine ssooon ssennr oon,set white at i nine soon senor,17,7,0.8333333333333334
+525,set white by c one soon,set  white  by  m oone  sooon nin nn no,set white by m one soon in in,17,7,0.8333333333333334
+526,lay red by e eight please,llay  red  by  e eeght pleaaase pllpllllll  yr  genr nn,lay red by e eight please,31,0,1.0
+527,bin white in g one soon,bin  white  in  u oone ssooon nnnn no,bin white in u one soon anna,15,6,0.8333333333333334
+528,set green by c seven soon,set  green by  b seven ssooon nnnnnr  oe,set green by b seven soon,16,1,0.8333333333333334
+529,set green in i three soon,set  green in  i three sooon ninnnn  o,set green in i three soon,13,0,1.0
+530,bin blue with g one soon,bin  bblue with h oone ssooonnnn  o,bin blue with h one ssooonnnn,12,6,0.6666666666666666
+531,bin white by a five soon,bin  white  by  a fiven ssooon nnn   reego,bin white by a given soon non,18,6,0.8333333333333334
+532,set red by b six please,set   reedd by  y sixx pleaaase  senno roeo,set reeds by y six please seen,21,8,0.6666666666666666
+533,set red with b eight now,set  rred with c eight nown     o,set red with c eight now o,10,3,0.8333333333333334
+534,place white at q one soon,place white att q oone ssooonnnr roeo,place white att q one,12,6,0.6666666666666666
+535,set blue with o zero now,set  bblue with r zero nownnn  o,set blue with r zero nownnn o,9,6,0.8333333333333334
+536,lay green with t one soon,lay green with n oone ssooon nnnno oe,lay green with n one soon,13,1,0.8333333333333334
+537,bin red by g three soon,bin  rred  by  g three sooonninnoooo,bin red by g three,13,5,0.8333333333333334
+538,lay red in q six now,llay rred  in  a sixx nownnooo,lay red in a six nownnooo,11,6,0.6666666666666666
+539,bin green in a two now,bin  green in  a twwo nowni nn  oonon,bin green in a two now in soon,15,8,1.0
+540,set blue at n four please,set  bblue  at  f four pleaasse nin  nn nonnn,set blue at f four please in,21,4,0.8333333333333334
+541,place green by k seven soon,place green by k seven ssooonnnee o,place green by k seven,8,5,0.8333333333333334
+542,place white in x two please,place white in  i twwo pleaaase ninnnn no,place white in i two please,15,1,0.8333333333333334
+543,set red by o three soon,set  rreedd by  i three soonn oo,set freed by i three soon oo,10,6,0.6666666666666666
+544,lay red in y zero now,llay  red  in  y three agaain iin nn  on,lay red in y three again in in,23,14,0.6666666666666666
+545,place green by k eight please,place green by k eight pleaaase nin nn  o,place green by k eight please,12,0,1.0
+546,place white with y five again,place white wiihh    eee aggain ninnnn roo,place white with see again,18,5,0.6666666666666666
+547,lay blue at k one soon,llay  blue  at  a oone ssooon nonno oe,lay blue at a one soon none oe,17,9,0.8333333333333334
+548,place white at d five again,place white at  j five  agaain ninb  n  o,place white at j five again,15,1,0.8333333333333334
+549,bin green with u eight please,bin green with u eight pleaaase iin nn  oon,bin green with u eight please,14,0,1.0
+550,place green with e nine again,place green wiih t neee agaain pllee  len nn  oo,place green with t need again,23,4,0.6666666666666666
+551,place red with j nine soon,place reed with x nine ssooonnnnoo,place reed with x nine,9,7,0.5
+552,set blue by a eight now,set  bblue  by  a eight nownnr  oe,set blue by a eight owner oe,11,6,0.8333333333333334
+553,place white at x seven again,place white at  x seven aagaainni     roeo,place white at x seven,14,6,0.8333333333333334
+554,lay blue at y one again,llay  blue  at  b oone  agaain ninn r ro,lay blue at b one again nine r,18,8,0.8333333333333334
+555,lay white by s two please,llay white  by  s twwo pleaaase nin nn no,lay white by s two please in,16,3,1.0
+556,place green at d eight now,place green it j eight nownnr  oe,place green it j eight owner,9,6,0.5
+557,lay red in q eight please,llay  reed wit  c eight pleaaase plpee seen rereee,lay reed wit c eight please,27,4,0.5
+558,set blue at n three soon,set   blue  at  b three sooon ni nn no,set blue at b three soon ni in,15,7,0.8333333333333334
+559,place blue by c four now,place blue  by  k four now  r  o,place blue by k four now r o,9,5,0.8333333333333334
+560,bin blue at s zero now,bin   blue  it  r zero now    reeoi,bin blue it r zero now revoir,15,9,0.6666666666666666
+561,set white by v three soon,set  white  by  b three soon  oooo,set white by b three soon oooh,10,6,0.8333333333333334
+562,place white with q nine soon,place white withh three sooon ssnn r ree o,place white with three soon,20,5,0.6666666666666666
+563,set white at u eight now,set  white  at  g eight nownin r re,set white at g eight owning r,12,8,0.6666666666666666
+564,bin blue at z six please,bin  bblue  at  f sixx pleaaaseppleeseen reee,bin blue at f six,22,8,0.6666666666666666
+565,lay blue with y seven soon,llay  blue with p seven ssooon nonno oe,lay blue with p seven soon,14,1,0.8333333333333334
+566,place green in q four please,place green in q four pleaaase  iebn    o,place green in q four please,13,0,1.0
+567,place green at e one again,place green at d oone  agaain ninw     oeo,place green at d one again,17,1,0.8333333333333334
+568,place white by q four now,place white bby q four nownnn  ow,place white by q four nownnn,8,3,0.8333333333333334
+569,place white in j two now,place white in  x twwo nownnno,place white in x two nownnno,7,5,0.6666666666666666
+570,lay green at z eight sp please,llay green at  b eight pleeeasee plleeelllu  or nonn,lay green at b eight pleeeasee,27,6,0.5714285714285714
+571,bin white in g three again,bin  white  in  h three agaainninnn o,bin white in h three,12,7,0.6666666666666666
+572,lay blue at x nine soon,llay  blue  it  i nine  sooon ninnnror,lay blue it i nine soon,17,2,0.6666666666666666
+573,set red at b zero now,set   redd at  c zero nownnn  ow,set red at c zero nownnn of,12,7,0.6666666666666666
+574,place white with y two now,place white withh   woo nowwnnree,place white with who nowwnnree,10,10,0.5
+575,set blue with o three again,set   blue with h three agaain iinnnn  ownn,set blue with h three again,17,1,0.8333333333333334
+576,place sp blue with x zero now,place ppld  iithh thhre   gonnnonin   roe,place old with there gonnnonin,26,17,0.2857142857142857
+577,place green at e zero please,place green it j zero pleaaase  iennnoroo,place green it j zero please,15,2,0.6666666666666666
+578,set green with q zero please,set green with p zero pleaaase plee bn n roegoi,set green with p zero please,20,1,0.8333333333333334
+579,set white by o eight now,set  white  by  i eight nownni nn no,set white by i eight nownni in,13,7,0.6666666666666666
+580,place green by r zero now,place green by r zero nowownn now,place green by r zero nowownn,8,4,0.8333333333333334
+581,lay white with z eight now,llay white with t eight nownninnn  o,lay white with t eight,11,5,0.6666666666666666
+582,place green with e six now,place greenwwihh e ihx noww nin nn  oo,place greenwich e ix now in in,16,9,0.5
+583,place red by j five soon,place gree  y  q five ssooonnnn   roe,place free y q five ssooonnnn,16,9,0.3333333333333333
+584,place red in i nine again,place reed  in  i nine  agaain  seeno,place reed in i nine again,12,1,0.8333333333333334
+585,set white by v two now,set  white  by  r twwo nown r re,set white by r two now r re,11,6,0.8333333333333334
+586,place red in i eight please,place reed  in  i eight pleaaase plleeelllue  r  oonoon,place reed in i eight please,28,1,0.8333333333333334
+587,lay red by z zero please,llay  red  by  m zoro pleaaase  sesn   ree,lay red by m zero please seen,20,6,0.8333333333333334
+588,set white with v eight please,set  white with h eight pleaaase pleeee lin  o ro,set white with h eight please,21,1,0.8333333333333334
+589,lay green with g five again,laa green with x five  agaain ninn   roe,law green with x five again,15,2,0.6666666666666666
+590,set blue with h eight please,set   blue with h eight pleaaase ninw  n wo,set blue with h eight please,15,0,1.0
+591,bin red in s five again,bin  rred  in  s five  agaain  nooo,bin red in s five again noon,12,5,1.0
+592,place sp blue at i six please,place ppll wbtt p e ghx plleaasee pleeee senseeoe,place pull watt p e the,30,16,0.14285714285714285
+593,bin red by t zero now,bin  rred  by  v zero nowin eeoe,bin red by v zero now were,12,6,0.8333333333333334
+594,bin white in t zero please,bin  white  in  t zero pleaaase plleee le  nn  o nnn,bin white in t zero please,26,0,1.0
+595,lay blue at d seven soon,plac  blue  at  d sive ssooon ninnnnooo,place blue at d give soon,19,6,0.6666666666666666
+596,bin white with u two please,bin  white with h twwo pleeaase plleee l  n  o,bin white with h two please,20,1,0.8333333333333334
+597,set blue in t two now,set   blue  in  t twwo nownnno,set blue in t two nownnno,9,4,0.8333333333333334
+598,set green with d one soon,set green with h oone  sooonnnnooo,set green with h one,10,6,0.6666666666666666
+599,place blue with j two now,place blue with i twwo now ni nn noo,place blue with i two now ni,12,4,0.8333333333333334
+600,place green with z one again,place green with t roe  gg ninwnnn oo,place green with t roe go,14,7,0.5
+601,place white at j nine again,place white at  d nine  agaain nin    wo,place white at d nine again in,14,4,0.8333333333333334
+602,set red by o five again,set  rred  by  o five  agaain  iennn no,set red by o five again vienna,16,7,1.0
+603,set green in o six now,set ggreen in  i nine  againninnnn oe,set green in i nine,19,6,0.5
+604,lay blue in x four now,llay  blue  in  a four nownnn no,lay blue in a four nownnn no,11,7,0.6666666666666666
+605,bin blue in z three again,bin  bblue  in  b three agaain iin nn no,bin blue in b three again in,16,4,0.8333333333333334
+606,lay green by f eight now,llay green by  f eight nowno,lay green by f eight now,4,0,1.0
+607,lay green in z two now,llay green in  b twwo now nn no,lay green in b two now in no,10,7,0.8333333333333334
+608,place blue in v zero please,place blue  in  b zero pleaaase pleesn  n no,place blue in b zero please,18,1,0.8333333333333334
+609,lay white with m zero now,llay white with m zero nowin   ree goi,lay white with m zero now see,13,4,1.0
+610,bin white by a four now,bin  white  by  l four nownnnno,bin white by l four nownnnno,9,6,0.6666666666666666
+611,set blue with u seven again,set  bblue with u sive aagaainninn noroea,set blue with u give,17,9,0.6666666666666666
+612,lay green at z seven soon,llay green at  s seven ssooon nonnnno,lay green at s seven soon,13,1,0.8333333333333334
+613,lay green in r nine soon,llay green in  u nine ssooon nonn r ree  o,lay green in u nine soon none,19,6,0.8333333333333334
+614,place blue at v five again,place blue  at  a five  agaain ninnnn  o,place blue at a five again,15,1,0.8333333333333334
+615,lay green in f two please,llay green in  a twwo pleaaase ninnnn  o,lay green in a two please,16,1,0.8333333333333334
+616,lay red with r eight now,llay rred with n eight nowninn   ree  oi,lay red with n eight owning,17,6,0.6666666666666666
+617,lay red by l zero now,llay  red  by  s zero now ninnnr roeo,lay red by s zero now dinner,17,8,0.8333333333333334
+618,set red in n four now,set  rreed  in  a four now ni     o,set freed in a four now ni o,15,8,0.6666666666666666
+619,set white in u seven again,set  white  in  m seven  agaain plee len    roe woinnon,set white in m seven again lee,30,5,0.8333333333333334
+620,place white at j seven soon,place white at  k five  sooon ninnnn  o,place white at k five soon,16,4,0.6666666666666666
+621,bin red with n zero now,bin  rred with c zero nownin r roe,bin red with c zero owning r,12,8,0.6666666666666666
+622,lay white at l four please,laay white  at  b four pleaaase pleeeesseen   roeoon,lay white at b four please,27,1,0.8333333333333334
+623,lay blue in q zero now,llay  blue  in  m zero now  n roeoon,lay blue in m zero now n,15,3,0.8333333333333334
+624,lay red with s zero please,llay rred with p zero pleaaase pleessen eeoe,lay red with p zero please,19,1,0.8333333333333334
+625,lay green in s one again,llay green in  z oone  agaainnin   roe,lay green in z one agaainnin,15,5,0.6666666666666666
+626,place blue in u eight now,place blue  in  g eight nownin  oro,place blue in g eight owning,11,6,0.6666666666666666
+627,place blue with p six now,place blue with p sixx nownnn  o,place blue with p six nownnn o,7,5,0.8333333333333334
+628,bin red in f six please,bin  rred  in  l sixx pleaasse ninnnn wo,bin red in l six please ninnnn,18,8,0.8333333333333334
+629,place blue in b seven soon,place bluee in  b seven ssooonnnn  o,place blue in b seven,10,5,0.8333333333333334
+630,set green at c four sp please,set  green at  f four pleplpsee pllppllllu  yr eee  o,set green at f four pleplpsee,29,7,0.5714285714285714
+631,bin blue by m three again,bin   blue  by  b three agaain ninn r ree  oi,bin blue by b three again nine,21,6,0.8333333333333334
+632,place white in p seven soon,place white in  s seven  sooon ninnnn  o,place white in s seven soon,14,1,0.8333333333333334
+633,place blue at p one again,place blue  at  p tonee agaain ninnnn ,place blue at p tone again,13,1,0.8333333333333334
+634,lay blue at q six please,llay  blue  at  u sixx pleaaasee aesensreree  o,lay blue at u six pleaaasee,24,4,0.6666666666666666
+635,bin white at a zero now,bin  white  at  a zero nownin r ree  oi,bin white at a zero owning r,16,7,0.8333333333333334
+636,bin red by g five again,bin  rred  by  a five  agaain ninnnn no,bin red by a five again ninnnn,17,8,0.8333333333333334
+637,set blue at a six please,set  bblue  at  a sixx pleaaase pleleennr ro,set blue at a six please,20,0,1.0
+638,lay red by r seven again,llay rred  by  v seve aagaainplsesen   roeenoonon,lay red by v see,28,9,0.5
+639,bin blue at f four please,bin   blue  at  f four pleaaasenin    ree go,bin blue at f four pleaaasenin,19,5,0.8333333333333334
+640,place white with r one again,place white iithh thnee agaain pleee leensre eee,place white with three again,25,4,0.6666666666666666
+641,set green at v seven again,set  green at  a seven  agaain iin  n  o,set green at a seven again in,15,4,0.8333333333333334
+642,bin red with g seven soon,bin  rred with u seven ssooon sonnn o,bin red with u seven soon,13,1,0.8333333333333334
+643,set green with x five again,set green with t five  agaain pleel nn  ooonn,set green with t five again,19,1,0.8333333333333334
+644,place green in d six please,place green in d sixx pleaaasen o ro,place green in d six pleaaasen,9,3,0.8333333333333334
+645,set blue in t five again,set   blue  in  f five  agaain ninn r roe,set blue in f five again nine,18,6,0.8333333333333334
+646,place blue at v three soon,place blue  at  b three sooon ninnno o,place blue at b three soon,13,1,0.8333333333333334
+647,bin blue with t zero please,bin   blue with p zero pleaasse pleeesnnneo,bin blue with p zero please,17,1,0.8333333333333334
+648,set white in b four please,set  white  in  b four pleaaase pllee lln  r  eeeonnn,set white in b four please,27,0,1.0
+649,set red at u two now,set  rredd at  i twwo nownnn  oo,set red at i two nownnn oo,13,7,0.6666666666666666
+650,set white by c zero now,set  white  by  m zero nowninnnoooo,set white by m zero,13,5,0.6666666666666666
+651,bin green at n five soon,bin  green at  a fine  sooon ninnnr roeo,bin green at a fine soon,18,2,0.6666666666666666
+652,bin green in a five again,bin  green in  a five  agaainnin    ro,bin green in a five agaainnin,13,4,0.8333333333333334
+653,bin green in a three soon,bin  green in  s three soon ninnnooro,bin green in s three soon,13,1,0.8333333333333334
+654,bin white at a three again,bin  white  at  i three agaain ninn n roeo,bin white at i three again,17,1,0.8333333333333334
+655,lay white in e five soon,llay white  in  a five ssooon nonn re eees,lay white in a five soon none,19,6,0.8333333333333334
+656,set blue in n zero please,set   blue  in  r zero pleaaasepleeeeennr roeo,set blue in r zero,22,8,0.6666666666666666
+657,place blue in b eight please,place blue  in  b eight pleaaasepllllllleen rrree  oe,place blue in b eight,25,7,0.8333333333333334
+658,set red in a nine again,set  rred  in  a nine  agaain iin  nn  oo,set red in a nine again in in,18,6,1.0
+659,lay green at f five soon,llay green at  f five ssooon non  oooo,lay green at f five soon non,14,4,1.0
+660,lay green with m nine again,lay green with x nine aagaainnin r roe,lay green with x nine,12,7,0.6666666666666666
+661,set white at i one soon,set  white  at  i oone  agaainnn  o oo,set white at i one agaainnn o,17,9,0.8333333333333334
+662,lay red at k nine again,llay  redn at  d nine  agaain ninnnn ,lay red at d nine again ninnnn,15,8,0.8333333333333334
+663,place blue by j zero please,place blue  by  r zero pleaaaseplleeess  r ro,place blue by r zero,19,8,0.6666666666666666
+664,lay red with l six please,llay  red with n sixx pleaaasepleeeele    roeo,lay red with n six,22,8,0.6666666666666666
+665,bin white sp with n six now,bin gwhee  iwt h t reee  ggnnnooo,bin when it h t rete ggnnnooo,20,18,0.14285714285714285
+666,bin white at t five again,bin  white  at  i five  agaainninn noooo,bin white at i five agaainninn,16,6,0.6666666666666666
+667,place white with e three again,place white withh thheee  ggann nien  eoe,place white with there again,16,4,0.6666666666666666
+668,set white with c six please,set  white with p sixx pleaaase ninn reoe,set white with p six please,15,1,0.8333333333333334
+669,set green with p nine soon,set green with u nine ssoooninnn oe,set green with u nine,10,6,0.6666666666666666
+670,set red in a seven soon,set  rred  in  a seven  aginisn reree gs,set red in a seven aginisn,20,6,0.8333333333333334
+671,bin red in s four please,bin  rred  in  f four pleaaase plleee se nnn ooo,bin red in f four please,25,1,0.8333333333333334
+672,bin blue at z five soon,bin  bblue  at  f five ssooon no  n no,bin blue at f five soon no n,16,6,0.8333333333333334
+673,place green with l one soon,place green wihh threee soon soonnn ee,place green with three soon,15,4,0.6666666666666666
+674,lay white by f two now,llay white  by  f twwo nown   roe,lay white by f two now roe,11,4,1.0
+675,set white with j one again,set  white with j oone  agaain pleeele  o oo,set white with j one again,18,0,1.0
+676,set green by p five soon,set ggreen by  b five ssooonnnnn n roeo,set green by b five ssooonnnnn,16,7,0.6666666666666666
+677,bin green with u seven soon,bin green with u seven ssooonninnn  o,bin green with u seven,10,5,0.8333333333333334
+678,lay blue by q nine soon,llay  blue  by  a nine ssooonnnn woon,lay blue by a nine ssooonnnn,15,6,0.6666666666666666
+679,lay red with l seven again,llay  red with s seven  agaain ninnnn roo,lay red with s seven again,16,1,0.8333333333333334
+680,place red by d zero now,place reedd byy d zero now ninnnn non,place reeds by d zero now,14,2,0.8333333333333334
+681,bin green with o two now,bin green with a twwo nownnre ee  o,bin green with a two nowhere,12,5,0.6666666666666666
+682,lay green in l five soon,llay green in  b five ssooon nonnoo,lay green in b five soon,12,1,0.8333333333333334
+683,place white in c eight now,place white in  p eight nownnroe,place white in p eight,7,5,0.6666666666666666
+684,place red with d five soon,place reed with d five ssooon ninnnn wo,place reed with d five soon,13,1,0.8333333333333334
+685,set white at i three again,set  white  at  a three agaain ii nn no,set white at a three again ii,14,4,0.8333333333333334
+686,lay blue at q four now,llay  blue  at  f four now  o ro,lay blue at f four now o to,11,6,0.8333333333333334
+687,place green in k zero please,place green it k zeroo pleeaase plleee len nn no,place green it k zero please,21,1,0.8333333333333334
+688,set blue with u six please,set   blue with u sixx pleaaase ninpn   reeo,set blue with u six please,18,0,1.0
+689,set blue in g six please,set  bblue  in  a sixx pleaaase ninsn r  ee goon,set blue in a six please nine,25,6,0.8333333333333334
+690,place green with e seven soon,place green wiih t seee  again ninnnn oo,place green with t see again,17,7,0.5
+691,set white with c five soon,set  white with i five ssooonn  r ree go,set white with i five ssooonn,15,4,0.6666666666666666
+692,lay green in r eight now,llay green in  g eight nowninnn  oe,lay green in g eight nowninnn,12,6,0.6666666666666666
+693,place blue in i zero now,place blue  in  h zero now nn  on,place blue in h zero now in on,10,7,0.8333333333333334
+694,place blue with p seven soon,place blue with p seven ssooonnninn   ree o,place blue with p seven,15,5,0.8333333333333334
+695,bin blue with m four now,bin  bblue with j four nownnn  oo,bin blue with j four nownnn oo,10,7,0.6666666666666666
+696,bin blue in l four please,bin  bblue  in  l four pleaaase nin    ro,bin blue in l four please in,16,3,1.0
+697,place red with q five again,place reed with k five  agaain nin n oo,place reed with k five again,13,2,0.6666666666666666
+698,bin blue by s four now,bin  bblue  by  a four nowinnn o,bin blue by a four nowinnn o,11,7,0.6666666666666666
+699,lay green by m three soon,llay green by  m three seaon nin nn  o,lay green by m three season in,14,6,0.8333333333333334
+700,bin red by t one soon,bin  rred  by  o oone ssooonninnn no,bin red by o one ssooonninnn,16,8,0.6666666666666666
+701,lay red by r four now,llay  red  by  u four nowni no no,lay red by u four now no no,13,7,0.8333333333333334
+702,place red by d three again,place reedd bby d three agaain ninn ooroe,place reeds by d three again,15,2,0.8333333333333334
+703,set white by p zero please,set  white  by  p zero pleaaase pleeeesle  nn won,set white by p zero please,23,0,1.0
+704,lay blue sp with e six please,plac  rled   wthh e sox pleeaase nin nn  on,place red the e so please in,24,17,0.2857142857142857
+705,lay white by s three again,laay white  by  h three agaain iinn ooro,lay white by h three again inn,15,5,0.8333333333333334
+706,bin green by u three soon,bin ggreen by  r three sooonnnn ,bin green by r three sooonnnn,8,5,0.6666666666666666
+707,bin blue with s nine soon,bin  bblue with x nine ssooon ninnnn ro,bin blue with x nine soon,15,1,0.8333333333333334
+708,set green at p two please,set  green at  f twwo pleaaase  in bn   ro,set green at f two please in,18,4,0.8333333333333334
+709,bin green with h nine soon,bin green with i nine ssooon nonnoeoe,bin green with i nine soon,12,1,0.8333333333333334
+710,place white with k six please,place whitewwithh eegxx plleaase aeebn   roe,place whitewwithh eegxx please,20,6,0.3333333333333333
+711,bin white by n three soon,bin  white  by  a three soon ninn r ro,bin white by a three soon nine,14,6,0.8333333333333334
+712,place blue at c one soon,place blue  at  c oone  sooonnisnsee oe,place blue at c one,15,5,0.8333333333333334
+713,bin white at t three soon,bin  white  at  t three aginnn or,bin white at t three aginnn or,11,8,0.8333333333333334
+714,set red at b one soon,set  rredd at  g oone ssooon snennn  ow,set red at g one soon snennn,19,8,0.8333333333333334
+715,lay green in l seven again,place reen in  v seven  agaainin eeoe,place been in v seven agaainin,15,9,0.3333333333333333
+716,lay blue by e two please,llay  blue  by  t twwo pleaaase ninwnnn no,lay blue by t two please,19,1,0.8333333333333334
+717,lay green with g four please,lay green with o tour pleaaase  aeennn roe,lay green with o tour please,16,2,0.6666666666666666
+718,set red by u seven soon,set  rred  by  u seven ssooonnnn no,set red by u seven ssooonnnn,12,5,0.8333333333333334
+719,bin green with o five again,bin green with n sive aagaain  ane pln  r ree  oi,bin green with n give again,24,2,0.6666666666666666
+720,bin red by a zero please,bin  rred  by  l zero pleaasse plsese sen eeoe,bin red by l zero please,23,1,0.8333333333333334
+721,set blue with b two now,set   blue with x twwo nowni nn no,set blue with x two now in no,12,7,0.8333333333333334
+722,place red with q two now,place reed with x twwo nownnr oe,place reed with x two owner oe,9,8,0.5
+723,place green in j nine soon,place green it q nine ssooon nonn   reeo,place green it q nine soon,16,2,0.6666666666666666
+724,lay blue at k two please,llay  blue  at  z zwwo pleeaase pleeeerre  nr  oen,lay blue at z who please,28,3,0.6666666666666666
+725,set blue at t nine again,set  bblue  at  i nine  agaain iinn   ree go,set blue at i nine again inn,21,5,0.8333333333333334
+726,bin blue in l five again,bin   blue  in  z five  agaainn n oo,bin blue in z five again n oo,13,6,0.8333333333333334
+727,place red by j six please,place rredd bby j sixx pleaaaseplee bnn noroe,place red by j six,20,7,0.8333333333333334
+728,lay green in z three soon,laay green in  y three soon ninnn no,lay green in y three soon nine,12,6,0.8333333333333334
+729,place blue with j three soon,place blue with n three sooon nonnnr roe,place blue with n three soon,13,1,0.8333333333333334
+730,place red in c two now,place reedd in  c twwo nown eeoe,place reeds in c two now were,10,7,0.8333333333333334
+731,set red in u zero please,set  rred  in  s zero pleaaase nonn roroe,set red in s zero please none,18,6,0.8333333333333334
+732,set blue at g eight now,set   blue  at  g eight nownnn  o,set blue at g eight nownnn o,10,5,0.8333333333333334
+733,place blue with p nine again,place blue with u nine  agaain nin    ree goion,place blue with u nine again,20,1,0.8333333333333334
+734,bin blue with s eight now,bin   blue with p eight now ninnno ro,bin blue with p eight now,13,1,0.8333333333333334
+735,bin red with g nine again,bin  rred with u nine  agaain iin    roe,bin red with u nine again in,16,4,0.8333333333333334
+736,lay red with z four please,llay  reed with z four pleaaase iin nn  o,lay reed with z four please in,15,4,0.8333333333333334
+737,bin blue with m five soon,bin  bblue with t five ssooon nonnnn oo,bin blue with t five soon,15,1,0.8333333333333334
+738,lay white in r three soon,llay white  in  r three sooon ssen r roeo,lay white in r three soon seen,16,5,1.0
+739,set green by j zero now,set  green by  y zero now ninnno o,set green by y zero now ninnno,12,8,0.8333333333333334
+740,lay white with f seven soon,llay white with s seven ssooon nonnn  o,lay white with s seven soon,13,1,0.8333333333333334
+741,bin blue in f one again,bin   blue  in  z oone  agaain iinnnn  o,bin blue in z one again iinnnn,18,8,0.8333333333333334
+742,bin red by a one again,bin   redd by  a none  agaain paeesd    ree go,bin red by a none again passed,24,8,0.8333333333333334
+743,set green at c three soon,set  green at  c three soon ni nn no,set green at c three soon ni,11,3,1.0
+744,set green with d zero now,set green with p zero nown oeeen,set green with p zero now been,8,6,0.8333333333333334
+745,lay blue in x five soon,llay  blue  in  x nine ssooonnnn wo,lay blue in x nine ssooonnnn,14,7,0.6666666666666666
+746,place green at q six now,place green it j sixx nowninnno,place green it j six nowninnno,9,8,0.5
+747,lay blue in q three again,llay  blue  in  g three agaain nin  n  gen,lay blue in g three again in n,18,6,0.8333333333333334
+748,set white by i seven again,set  white  by  i sive  agaainninn   ree goi,set white by i give agaainninn,20,8,0.6666666666666666
+749,set white with sp v nine again,set  white with h   reee  again ninbin n  oo,set white with h rete again,21,7,0.5714285714285714
+750,lay blue with e seven again,llay  blue with j five  agaain paesleen re ee goon,lay blue with j five again,27,4,0.6666666666666666
+751,set green at p zero now,set  green in  p twwo nownnno,set green in p two nownnno,11,9,0.5
+752,lay green by m five again,llay green by  m five aagaain aieewln nn  on nnn,lay green by m five again,23,0,1.0
+753,set green at i eight please,set  green at  t eight pleaaaseninnnn oe,set green at t eight,14,8,0.6666666666666666
+754,set white in h nine again,set  white  in  h nine  agaain ninnnnoro oi,set white in h nine again,18,0,1.0
+755,set blue by h five again,set   blue  by  h five  agaain plx lee  n  o,set blue by h five again pox,20,4,1.0
+756,place blue with j four please,place blue with x four pleaaasepleeeennr reeo,place blue with x four,17,8,0.6666666666666666
+757,set green by x zero please,set  green by  c zero pleeaase nin nn  o,set green by c zero please in,15,4,0.8333333333333334
+758,place blue by i nine soon,place blue  by  i nine  sooon ii  n  oo,place blue by i nine soon ii n,14,5,1.0
+759,bin white at m nine soon,bin  white  at  h nine ssooon nonnnnooo,bin white at h nine soon,16,1,0.8333333333333334
+760,lay blue by e three again,llay  blue  by  a three agaainpsen re ee  oe,lay blue by a three agaainpsen,20,6,0.6666666666666666
+761,place green at k two now,place green at q twwo nown   ree,place green at q two now see,9,5,0.8333333333333334
+762,set green at v six please,set  green at  v sixx pleaaase plluuppleennr reeego,set green at v six please,26,0,1.0
+763,place green with r four now,place green wtth ttwoo nowwnin   z ro,place green with two nowwnin z,17,10,0.5
+764,bin green in g nine again,bin  green in  g nine aagaain plppplpleae srrree  oeo,bin green in g nine again,28,0,1.0
+765,lay blue at x eight now,llay  blue  at  v eight nown   roe,lay blue at v eight now roe,12,5,0.8333333333333334
+766,bin white by t seven soon,bin  white  by  i seven ssooon nn no,bin white by i seven soon in,12,4,0.8333333333333334
+767,bin green by b three again,bin  green by  b three agaainninn   ro,bin green by b three,12,6,0.8333333333333334
+768,set green with j six please,set green with x sixx pleaaase pleeee snnnr reeoon,set green with x six please,24,1,0.8333333333333334
+769,bin red in f four now,bin  rred  in  f four nowinnoo,bin red in f four nowinnoo,9,5,0.8333333333333334
+770,set white in h eight please,set  white  in  h eight pleaaasepppn reeeee o,set white in h eight,18,7,0.8333333333333334
+771,lay green with a one again,lay green with a oone  agaain iin tn  ooonnn,lay green with a one again in,18,3,1.0
+772,set green at i nine again,set ggreen it  i nine  agaain ninn   ro,set green it i nine again nine,15,6,0.8333333333333334
+773,place white in j four please,place white in  x four pleaaase ssen r ree  o,place white in x four please,18,1,0.8333333333333334
+774,set blue with b four please,set   blue with p four pleaaase sennr roea,set blue with p four please,16,1,0.8333333333333334
+775,bin white by h zero please,bin  white  by  r zero pleaaase plee  o roe goi,bin white by r zero please lee,22,5,0.8333333333333334
+776,lay red at r zero now,llay  red  at  r zero nogpaeeno,lay red at r zero nogpaeeno,11,7,0.8333333333333334
+777,set red in n five soon,set  rred  in  i five ssooonnnnn   roe,set red in i five ssooonnnnn,17,7,0.6666666666666666
+778,set green with j four now,set green with u four now ninnn wo,set green with u four now nine,10,6,0.8333333333333334
+779,place blue in i two please,place blue  it  i twwo pleeaase plleee l    roewo,place blue it i two please,24,1,0.8333333333333334
+780,place red by j four now,place rredd byy j four nownnnooo,place red by j four nownnnooo,9,6,0.8333333333333334
+781,bin white with u zero now,bin  white with u three ag  se,bin white with u three a se,11,8,0.6666666666666666
+782,lay white at l two now,llay white  at  b twwo nowinnn ro,lay white at b two nowinnn to,12,8,0.6666666666666666
+783,lay green with m eight please,lan green with h eight pleaaaseii   n no,an green with h eight,13,10,0.5
+784,place white at q two please,place white att q twwo pleaaasepllee seen reoe,place white att q two,19,8,0.6666666666666666
+785,set blue by u two please,set  bblue  by  u twwo pleaaase  aeseensreeee,set blue by u two please,21,0,1.0
+786,set green by p seven again,set  green by  p seven  agaainninn   ree goi,set green by p seven,18,6,0.8333333333333334
+787,place red with d four now,place reed with j four nown   roe,place reed with j four now roe,9,6,0.6666666666666666
+788,set green in v zero now,set  green in  m zero now nn  oo,set green in m zero now in oo,10,7,0.8333333333333334
+789,lay white with s seven again,laay white with p seven  agaainninnn  roeon,lay white with p seven,16,7,0.6666666666666666
+790,set white at i zero now,set  white  at  n zero nown r roe,set white at n zero now r roe,11,7,0.8333333333333334
+791,lay blue with k nine soon,llay  blue with x nine ssooon nn n,lay blue with x nine soon in n,10,6,0.8333333333333334
+792,lay white in l zero please,llay white  in  b zero pleaaase ssenr ree,lay white in b zero please,16,1,0.8333333333333334
+793,set green by p four now,set  green by  p four now nn no,set green by p four now in no,8,6,1.0
+794,bin red at m four please,bin   red  at  n four pleaaase pleessle  sr  oe,bin red at n four please,24,1,0.8333333333333334
+795,lay blue sp at q five soon,place plld   by q fine ssooon nonnnno,place all by q fine soon,21,12,0.2857142857142857
+796,lay red in k five again,llay rred  in  v five  agaainninn r roeo,lay red in v five agaainninn r,18,8,0.6666666666666666
+797,lay green by m four please,llay green by  m four pleaaase  inn   ree  oi,lay green by m four please inn,19,4,1.0
+798,place red at v eight now,place reedd at  a eight nown eeo,place reeds at a eight now leo,9,7,0.6666666666666666
+799,set red with b nine soon,set  rred with l nine ssooonn seoe,set red with l nine ssooonn,11,4,0.6666666666666666
+800,lay blue by q eight now,llay  blue  by  k eight now nn  onnn,lay blue by k eight now in on,14,7,0.8333333333333334
+801,set blue at t seven soon,set   blue  at  t seven ssooon nnnn r oe,set blue at t seven soon anna,16,5,1.0
+802,bin red with n three again,bin  rred with t three agaain nien r ro,bin red with t three again,14,1,0.8333333333333334
+803,place white in x zero now,place white in  q zero now  n no,place white in q zero now n no,8,6,0.8333333333333334
+804,bin green at h three again,bin  green at  i three againinnnnorow,bin green at i three,12,7,0.6666666666666666
+805,lay red by y eight now,llay  reedd by  y eight nowninn   reeo,lay reeds by y eight owning,16,7,0.6666666666666666
+806,lay blue in j eight please,llay  blue  in  m eight pleaaase pleel n r roe,lay blue in m eight please,21,1,0.8333333333333334
+807,bin white by a six please,bin  white  by  a sixx pleaaase plleee bee  r roeoon,bin white by a six please,27,0,1.0
+808,set blue at g nine soon,set  bblue  at  d nine ssooonnon noooo,set blue at d nine ssooonnon,16,6,0.6666666666666666
+809,set blue at n five again,set   blue  at  v five aagaain plxe been r ree  o,set blue at v five again place,26,7,0.8333333333333334
+810,bin blue in f zero please,bin   blue  in  s zero pleeaaseplleee seen   ree  oi,bin blue in s zero,28,8,0.6666666666666666
+811,lay red in y two please,llay  redd in  b tero pleeaase ninnnr oe,lay red in b term please,19,4,0.6666666666666666
+812,bin white at n zero please,bin  white  at  u zero pleaaase pleeeeesen o oe,bin white at u zero please,22,1,0.8333333333333334
+813,place green with r seven again,place green itth    eee aagainninn r ree o,place green it see aagainninn,19,11,0.3333333333333333
+814,place white by x nine soon,place white byy x nine ssooonnonnnr roe,place white by x nine,13,5,0.8333333333333334
+815,place green at q seven soon,place green nt q seven ssooon ninn r ree  ai,place green it q seven soon,18,1,0.8333333333333334
+816,place blue with d zero please,place blue with p zero pleaaase  sen reree,place blue with p zero please,14,1,0.8333333333333334
+817,place green by k nine again,place green by k oine  agaain iinn n  oo,place green by k one again inn,14,6,0.8333333333333334
+818,bin red with t seven again,bin  rred with t seven  agaain paeeple  sreeee go,bin red with t seven again,23,0,1.0
+819,place blue at c three again,place blue  at  c three agaain ninnnr ree  oi,place blue at c three again,18,0,1.0
+820,set blue by a nine soon,set   blue  by  a nine ssooonnnnn o,set blue by a nine ssooonnnnn,12,6,0.8333333333333334
+821,set white in u four now,set  white  in  u four nowni nn  ooon,set white in u four now in,14,3,1.0
+822,place green in x nine again,place green in x nine  agaain iie nnn no,place green in x nine again,13,0,1.0
+823,bin red in m one again,bin  rred  in  m oone  agaain iinwnnn  agnnn,bin red in m one again iinwnnn,22,8,1.0
+824,place blue by p four please,place blue  by  c four pleaaase nin    roe,place blue by c four please in,16,4,0.8333333333333334
+825,lay red in d nine soon,llay  reed  in  d nine ssooonnnn o,lay reed in d nine ssooonnnn o,12,8,0.6666666666666666
+826,place red with d seven again,place reed with x seven  agaain ninn o ro,place reed with x seven again,14,2,0.6666666666666666
+827,bin blue at l eight please,bin  bblue  at  l eight pleaaase pllee  ben nn  o,bin blue at l eight please,23,0,1.0
+828,bin blue in e eight now,bin   blue  in  v eight nowninn roreo,bin blue in v eight owning,15,6,0.6666666666666666
+829,place white with k five soon,place white withh t  eee sooonnonn   roeo,place white with t see,17,9,0.5
+830,set white at b six now,set  white  at  a sixx nowni nn non,set white at a six now in non,14,8,0.8333333333333334
+831,lay red at r one soon,llay  red  at  u oone ssooonnonnnr reeo,lay red at u one ssooonnonnnr,19,9,0.6666666666666666
+832,lay blue by k five soon,llay  blue  by  b sive nownnn o,lay blue by b give nownnn o,12,8,0.5
+833,lay blue in q two please,llay bblue  in  r twwo pleaaase  seeennnoo,lay blue in r two please,19,1,0.8333333333333334
+834,bin white at t two now,bin  white  at  t twwo nowinno oen,bin white at t two nowinno on,12,7,0.8333333333333334
+835,lay blue in j seven soon,llay  blue  in  m seve ssooon  o o,lay blue in m see soon o o,13,7,0.6666666666666666
+836,place blue with d one again,place blue with d oone  agaainnnn  oo,place blue with d one,10,6,0.8333333333333334
+837,set white with c seven again,set  white with p seven aagaain pae be  n  oown,set white with p seven again,20,1,0.8333333333333334
+838,set red with c one again,set  rred with p oour paeaaise ple bnnn  o,set red with p your paradise,22,9,0.5
+839,bin red by t two please,bin  rred  by  i twwo pleeaasee plleee l    wooo,bin red by i two pleeaasee,26,4,0.6666666666666666
+840,place blue by p three soon,place blue  by  p three sooon non r eee,place blue by p three soon non,13,4,1.0
+841,lay blue in d five again,llay  blue  in  l five aagaain pllulllleen reroeo,lay blue in l five again,26,1,0.8333333333333334
+842,set red at n eight now,set  rred  at  a eight nowinn  roe,set red at a eight knowing roe,13,9,0.6666666666666666
+843,lay white in e seven again,llay white  in  e seven aagaain plesnnn  o,lay white in e seven again,16,0,1.0
+844,bin green by h four now,bin ggreen by  h four nownnn  ro,bin green by h four nownnn to,9,6,0.8333333333333334
+845,place white at d two now,place white att d twwo nown r roe,place white att d two now r,9,3,0.8333333333333334
+846,lay blue at y zero please,llay  blue  at  y zero pleaaasepleeeeennreree o,lay blue at y zero,22,7,0.8333333333333334
+847,bin white at n one again,bin  white  at  o oone  agaaine anpen rereeeo,bin white at o one again aspen,22,7,0.8333333333333334
+848,lay red at e two now,llay  red  at  g twwo nown re ee o,lay red at g two now re he o,15,9,0.8333333333333334
+849,lay green with m six now,lan green with x sixe nawnnr roe,an green with x side nawnnr,11,9,0.3333333333333333
+850,place white at x four now,place white at  x siur nown n  o,place white at x sir now n o,9,7,0.8333333333333334
+851,bin white with n seven soon,bin  white with n seven ssooonn r reeo,bin white with n seven ssooonn,11,3,0.8333333333333334
+852,lay blue by k four now,llay  blue  by  m four nown o oe,lay blue by m four now o oe,11,6,0.8333333333333334
+853,place red at c six now,place rredd at  c sixx nown see,place red at c six now see,9,4,1.0
+854,lay white at z two please,llay white  at  t twwo pleaaase nins nn no,lay white at t two please nine,18,6,0.8333333333333334
+855,place red by d two please,place rredd by  d twwo pleaaase ninnn nonnn,place red by d two please nine,18,5,1.0
+856,place red by q one again,place rredd byy q oone  agaainninn re eee,place red by q one agaainninn,17,5,0.8333333333333334
+857,bin white at g six please,bin  white  at  o sixx pleaaasenin    ro,bin white at o six pleaaasenin,16,6,0.6666666666666666
+858,bin white with n nine again,bin  white with i nine  agaain plpe  lee sreree go,bin white with i nine again,24,1,0.8333333333333334
+859,set red in a six now,set   red  in  a sixx nown ooro,set red in a six now for,11,4,1.0
+860,place blue with p eight please,place blue with c eight pleaaaseiinnnnore,place blue with c eight,12,8,0.6666666666666666
+861,set green with x three soon,set green with x three soonnnn  o,set green with x three soonnnn,6,3,0.8333333333333334
+862,lay green by s six now,llay green by  b sixx nownnn oe,lay green by b six nownnn oe,10,7,0.6666666666666666
+863,lay green at m zero please,llay green at  z zero pleaaase plleee bennn no,lay green at z zero please,21,1,0.8333333333333334
+864,place red by p eight now,place reed  by  y eivht  agni n   ree goi,place reed by y eight igni n,20,7,0.5
+865,place blue by v seven soon,place blue  by  p seven ssooonnnn no,place blue by p seven,11,6,0.6666666666666666
+866,place red at p four now,place rredd at  p four now nin r  oen,place red at p four now in r,14,5,1.0
+867,place red with j eight now,place reed with c eight nowinneeo,place reed with c eight,8,6,0.5
+868,place red by x four please,place rredd by  x four pleaaase plleee l    roo,place red by x four please,21,0,1.0
+869,set green at c five again,set  green at  v sive aagaainninnnreoe,set green at v give,15,8,0.5
+870,bin green in t six please,bin  green in  o sixx pleaaase pleeln nr  onnn,bin green in o six please,22,1,0.8333333333333334
+871,bin white at g four now,bin  white  an  a fiur nownnr oe,bin white an a four owner oe,12,8,0.5
+872,bin red in l eight now,bin  rred  in  e eight nownin    ro,bin red in e eight owning to,14,9,0.6666666666666666
+873,place green with l zero now,place green ithh    rr  oo nnnnn no,place green the or oo nnnnn no,15,14,0.3333333333333333
+874,bin red with t six please,bin  rred with t sixx pleaaase aen r reego,bin red with t six please an r,17,5,1.0
+875,place red at j one soon,place reedd at  a oone ssooonnnr oe,place reeds at a one ssooonnnr,13,8,0.5
+876,place red at sp p six please,place reedd at  p e sxx pleeaase plleeesseenne  oe,place reeds at p e six please,25,4,0.7142857142857143
+877,place white by q seven again,place white by  p seven  agaain ssn reee,place white by p seven again,13,1,0.8333333333333334
+878,place blue in o four now,place blue  in  u four now  n roe,place blue in u four now n roe,10,7,0.8333333333333334
+879,lay green in l four now,llay green in  l four now  nooo,lay green in l four now noon,8,5,1.0
+880,set sp blue with b three soon,pla e brede  wthh   rrrpdees iinnnn  o,plan e bride the rrrpdees,25,21,0.0
+881,set red in h two please,set  rreed  in  h twwo pleaaase plee bnnn  ooonnn,set freed in h two please lee,26,6,0.8333333333333334
+882,bin red at s seven soon,bin  rred  at  s seven  sooon nin nn no non,bin red at s seven soon in in,20,6,1.0
+883,bin blue by z eight now,bin   blue  by  b eight now iinn  n  oo,bin blue by b eight now inn n,17,7,0.8333333333333334
+884,lay blue in d four please,llay  blue  in  o four pleaaasenin n o,lay blue in o four pleaaasenin,14,6,0.6666666666666666
+885,bin blue with t one again,bin   blue with n oone  agaainnnneoe,bin blue with n one,12,7,0.6666666666666666
+886,bin blue by f seven soon,bin   blue  by  f seven ssooon nonnnn roe,bin blue by f seven soon,17,0,1.0
+887,lay white with s five soon,llay white with p five  soon ninnnr roeo,lay white with p five soon,15,1,0.8333333333333334
+888,bin white in m five soon,bin  white  in  f five ssooon n  o oo,bin white in f five soon n o,14,5,0.8333333333333334
+889,bin red at f eight now,bin  rred  at  b eight nownnn  oo,bin red at b eight nownnn oo,12,7,0.6666666666666666
+890,lay blue in j six now,llay  blue  in  e sixx nowinnn o,lay blue in e six nowinnn o,12,7,0.6666666666666666
+891,set green in i two now,set  green in  i twwo now ninnnn ro,set green in i two now ninnnn,13,7,1.0
+892,set white in o one soon,set  white  in  o oone ssooon ninnnnooo,set white in o one soon,16,0,1.0
+893,lay red by e seven soon,llay rredd by  e seven ssooon ninn  oroe,lay red by e seven soon nine,17,5,1.0
+894,place white at x six please,place white at  x sixx pleaaase plleee bnn nooo,place white at x six please,20,0,1.0
+895,set blue in g seven again,set  bblue  in  g seven  agaainninn r ree goi,set blue in g seven agaainninn,20,5,0.8333333333333334
+896,lay blue with r four please,llay  blue with u four pleaaaseplleepllan   reeo,lay blue with u four,22,8,0.6666666666666666
+897,set red in a eight please,set  rred  in  b eight pleaaase plpe  ble nn  onon,set red in b eight please pipe,26,6,0.8333333333333334
+898,lay red by l one soon,llay rred  by  l none ssooon  o oo,lay red by l none soon o oo,13,6,0.8333333333333334
+899,bin red with g eight please,bin  rred with v eight pleaaase sseo,bin red with v eight please,10,1,0.8333333333333334
+900,set red in n six please,set   reed  in  a sixx pleaaase pllpllllle sreree  se,set reed in a six please,31,2,0.6666666666666666
+901,bin red with a five again,bin  rred with a nive  agaain nin nn noon,bin red with a give again in,17,4,0.8333333333333334
+902,bin white at a one soon,bin  white  at  a nine ssooon ssennn o,bin white at a nine soon,16,2,0.8333333333333334
+903,bin green in t seven again,bin  green in  f fiven  agaain pllee blu  nr  ooo,bin green in f given again,26,3,0.6666666666666666
+904,set red at u three soon,set  rred  at  t three soon ninnnn o,set red at t three soon ninnnn,14,8,0.8333333333333334
+905,bin red at f nine soon,bin  rred  at  o nine ssooonn nn no,bin red at o nine ssooonn in,14,7,0.6666666666666666
+906,lay red with f two please,llay  red with u twwo pleaaase sseeeeannr  on,lay red with u two please,21,1,0.8333333333333334
+907,place green at y one soon,place green tt q oone ssooon nonnnn o,place green tt q one soon,14,2,0.6666666666666666
+908,bin red at m two now,bin  rred  at  f twwo nownnn oo,bin red at f two nownnn oo,12,7,0.6666666666666666
+909,set red with c zero please,set   reed with p zero pleaaase  aeen n  onnn,set reed with p zero please,20,2,0.6666666666666666
+910,place green in x seven soon,place green it x seven ssooon nonnnr roe,place green it x seven soon,14,1,0.8333333333333334
+911,lay red at k seven soon,place reede aa  q seven ssooonninnnn no,place reeds a q seven,19,12,0.16666666666666666
+912,bin blue at l nine again,bin  bblue  at  i nine  agaain ninnnno,bin blue at i nine again,15,1,0.8333333333333334
+913,bin white by g nine soon,bin  white  by  g nine  sooonninnno een,bin white by g nine,15,5,0.8333333333333334
+914,set green in c zero please,set  green in  c zero pleeaase plleeeslennnn  awn,set green in c zero please,23,0,1.0
+915,bin blue by f six now,bin   blue  by  v sixx nown  eoe,bin blue by v six now eye,12,5,0.8333333333333334
+916,place blue by p two now,place blue  byy p zwwo nown non,place blue by p who now non,9,6,0.8333333333333334
+917,lay white by s one soon,llay white  by  m oone ssooon ninnno oo,lay white by m one soon ninnno,17,8,0.8333333333333334
+918,place blue at v two now,place blue  at  g twwo now    roe,place blue at g two now roe,11,5,0.8333333333333334
+919,place white in p six now,place white in  p sixx nowin   roe,place white in p six now roe,10,4,1.0
+920,set green with j five soon,set green with l five ssooonnnr oe,set green with l five,9,6,0.6666666666666666
+921,lay blue by y four please,llay  blue  by  y four pleaaase ples  o ro,lay blue by y four please plea,17,5,1.0
+922,place white by k zero now,place white  by k zero now ni nn  oo,place white by k zero now ni,11,3,1.0
+923,set blue by n six now,set   blue  by  a sixx nowninnn  oo,set blue by a six nowninnn oo,15,9,0.6666666666666666
+924,lay blue by e one soon,llay  blue  by  e oone ssooon snnnwrnnnn  own,lay blue by e one soon,23,0,1.0
+925,place green at q nine again,place green in x nine  agaain ninn    oo,place green in x nine again,16,3,0.6666666666666666
+926,bin white by h one again,bin  white  by  o oone  agaain nin no no,bin white by o one again in no,17,7,0.8333333333333334
+927,set green by c eight please,set  green by  c eight pleaaase iinnnn  o,set green by c eight please,14,0,1.0
+928,set green in o eight please,set  green it  o eight pleaaase plleeeple  yy roo,set green it o eight please,23,1,0.8333333333333334
+929,set green in v one soon,set  green in  a towo nownnooro,set green in a two nownnooro,13,10,0.5
+930,bin green at n six please,bin  gheen at  o sixx pleaaase  anen   ree  oi,bin green at o six please aren,23,6,0.8333333333333334
+931,lay white sp by z five soon,llay wwhtte bby y   seee sooonn n oo,lay white by y see soon n oo,18,12,0.5714285714285714
+932,lay red at k six now,plac  redd at  a sixx nownn  roe,place red at a six now roe,14,8,0.6666666666666666
+933,place green by r one soon,place green by x oone ssooon non n noo,place green by x one soon non,14,5,0.8333333333333334
+934,bin white by t six now,bin  white  by  a sixx now   ooo,bin white by a six now too,11,5,0.8333333333333334
+935,place red by p nine soon,place reedd by  a nine ssooon iinnn no,place reeds by a nine soon inn,15,7,0.6666666666666666
+936,place white with k four now,place white withh   roo noww  o ro,place white with room now o to,12,10,0.6666666666666666
+937,lay blue at k three again,llay  blue  at  m zero pleaaaseplleleeeeennre eeeo,lay blue at m zero,33,11,0.5
+938,bin white sp by n four please,bin gween  byy f four pleaaase  aees nn  o,bin green by f four please,23,8,0.5714285714285714
+939,bin white with a nine soon,bin  white with a nine ssooon nnn r roeoon,bin white with a nine soon non,16,4,1.0
+940,set green in v two please,set  green in  g twwo pleaaase pae le  nr reo,set green in g two please pale,21,6,0.8333333333333334
+941,lay blue with r five again,llay  blue with r five aagaain ninnnn  o,lay blue with r five again,14,0,1.0
+942,bin green at a eight please,bin  green at  a eight pleaaasepllee leen r ree go,bin green at a eight,23,7,0.8333333333333334
+943,place white in c nine soon,place white in  a nine ssooon nnnnnn  ooon,place white in a nine soon,17,1,0.8333333333333334
+944,place blue at o nine soon,place blue  at  o nine ssooon nnnnnnooo,place blue at o nine soon,14,0,1.0
+945,lay white in r four please,laay white  in  u four pleaaaseplusnno oe,lay white in u four,16,8,0.6666666666666666
+946,bin blue with g three again,bin  bblue with h three agaainnni nn wo,bin blue with h three,13,7,0.6666666666666666
+947,set blue by n eight sp please,set   blue  by  v eight plepllpees pllpllllla yyr ree goi,set blue by v eight plepllpees,32,8,0.5714285714285714
+948,set green in i five again,set  green in  a five  agaain pleee seen reree  o,set green in a five again,25,1,0.8333333333333334
+949,bin green in g eight please,bin  green in  a eight pleaaasepllepplee sreeee  oe,bin green in a eight,25,8,0.6666666666666666
+950,set white by i five soon,set  white  by  i five ssooonnnn no,set white by i five ssooonnnn,11,5,0.8333333333333334
+951,lay green in f one soon,llay green in  o oone ssooon nonnnn no,lay green in o one soon nonnnn,16,8,0.8333333333333334
+952,bin green by n nine soon,bin  green by  a nine ssooon nonnn no,bin green by a nine soon none,14,6,0.8333333333333334
+953,lay red with r nine soon,llay  red with n nine ssooon sonnne ae,lay red with n nine soon bonne,15,7,0.8333333333333334
+954,set blue by u one soon,set   blue  by  u oone ssooonn r oe,set blue by u one ssooonn r oe,13,8,0.8333333333333334
+955,lay blue in d three soon,llay bblue  in  b three sooon ninn n no,lay blue in b three soon nine,16,6,0.8333333333333334
+956,place red by x two now,place rredd byy x twwo nownnnooo,place red by x two nownnnooo,10,6,0.8333333333333334
+957,bin white with b one again,bin  white with l oone  agaain pleen nr  oonon,bin white with l one again,21,1,0.8333333333333334
+958,set blue with o one soon,set  bblue with t oone ssooonnnnn ,set blue with t one ssooonnnnn,11,7,0.6666666666666666
+959,place white with e one soon,place white witth t ree aoinn r reo,place white with t see joint r,13,8,0.5
+960,bin red with g six now,bin   reed with x sixx nowinnn  on,bin reed with x six nowinnn on,13,9,0.5
+961,lay white with f eight please,llay white with p eight pleaaase iinn nn  oeon,lay white with p eight please,18,1,0.8333333333333334
+962,lay red by e six now,llay  red  by  e sixx now nnnnn  o,lay red by e six now nnnnn o,14,8,1.0
+963,place white at d four please,place white at  j four pleaasse  sennn oe,place white at j four please,14,1,0.8333333333333334
+964,set red with v one soon,set   reed with x nine ssooon nnnn r oe,set reed with x nine soon anna,18,9,0.5
+965,set red at o zero please,set  rred  at  u tero pleeaase pllplllleue rreree,set red at u term please,27,3,0.6666666666666666
+966,bin white with h two now,bin  white with i twwo nownnr roe,bin white with i two owner roe,10,8,0.6666666666666666
+967,set green by v eight now,set  green by  b eight nownnoo,set green by b eight nownnoo,7,5,0.6666666666666666
+968,place red with k zero please,place ree with b zero pleaaase  iennn roo,place see with b zero please,15,3,0.6666666666666666
+969,lay red by l two please,llay rreedd by  a twwo pleaaase pleelee     oenonn,lay freed by a two please,28,3,0.6666666666666666
+970,place blue by c seven again,place blue  by  c seven aagaain pleee bnnn no,place blue by c seven again,18,0,1.0
+971,lay white with f nine again,llay white with i nine  agaain iin  nn no,lay white with i nine again in,15,4,0.8333333333333334
+972,lay red in e one again,llay rred  in  a oone  agai iin nn  o,lay red in a one again in in o,16,9,0.8333333333333334
+973,set blue with h seven soon,set  bblue with h seven  agaain ninn   ree,set blue with h seven again,19,4,0.8333333333333334
+974,set green at p three again,set  green at  p three agaainnin   roeo,set green at p three agaainnin,13,4,0.8333333333333334
+975,set green in b nine soon,set  green in  a nine ssooonnnn o,set green in a nine ssooonnnn,10,6,0.6666666666666666
+976,lay red with z sp two now,llay  red with      rr  wwnnn o,lay red with or wwnnn o,14,9,0.42857142857142855
+977,place green in x six now,place green it x sixx nownnr roe,place green it x six owner roe,9,8,0.6666666666666666
+978,bin white at t four please,bin  white  in  a twwr pleaaase iin  o o,bin white in a two please in o,20,12,0.5
+979,lay red at e four please,llay  red  at  i four pleaaasen  oooo,lay red at i four pleaaasen,14,4,0.6666666666666666
+980,bin green with b six please,bin green with p sixx pleaaase plleee le  or wooo,bin green with p six please,23,1,0.8333333333333334
+981,set blue with h six now,set   blue with h sine nag   oro,set blue with h side nag or,11,6,0.6666666666666666
+982,place red at c nine again,place rredd at  j nine aagaain  iel   oooo,place red at j nine again ill,18,5,0.8333333333333334
+983,lay white by f four please,llay white  by  b four pleaaase nin  o oo,lay white by b four please in,16,4,0.8333333333333334
+984,set blue at h zero please,set   blue  at  z zero pleeaase pleelie nr  ooo,set blue at z zero please,23,1,0.8333333333333334
+985,place red with x seven soon,place reed with x sive ssooonnnn oe,place reed with x give,11,9,0.5
+986,bin red by m seven soon,bin  rred  by  m seve ssooon nn no,bin red by m see soon in no,13,8,0.8333333333333334
+987,bin blue by f eight please,bin  bblue  by  z eight pleaaase  aeebn   ro,bin blue by z eight please,19,1,0.8333333333333334
+988,set white in o three again,set  white  in  g three agaain ninnnnr ro,set white in g three again,16,1,0.8333333333333334
+989,lay white by l nine again,llay white  by  i nine  agaain iin nn  o,lay white by i nine again in,16,4,0.8333333333333334
+990,lay green at z six now,llay green at  a sixx nownnr oe,lay green at a six owner oe,10,7,0.6666666666666666
+991,set white in b five again,set  white  in  b five  agaain iiebnnn  ooewonnnn,set white in b five again,24,0,1.0
+992,lay blue by e zero now,llay  blue  by  e zero nown   ro,lay blue by e zero now to,10,3,1.0
+993,lay blue by k seven again,llay  blue  by  p seven  agaainniinn nn  oenon,lay blue by p seven,22,7,0.6666666666666666
+994,set green with x four please,set green with u four pleaaasepllee sn n o,set green with u four,15,8,0.6666666666666666
+995,set green with d three again,set green with h three agaainninn r ree  oi,set green with h three,16,7,0.6666666666666666
+996,bin green with b five soon,bin green with p five ssooon no    ro,bin green with p five soon no,12,4,0.8333333333333334
+997,set white with i nine soon,set  white with i nine  sooon ninnnn  oo,set white with i nine soon,14,0,1.0
+998,place white with r zero please,place white withh zzroo pleeaase iinnnn  oo,place white with zero please,17,2,0.8333333333333334
+999,set blue with u four now,set   blue with u four nown oeoe,set blue with u four now were,8,5,1.0
